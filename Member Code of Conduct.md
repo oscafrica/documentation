@@ -18,7 +18,7 @@ Open Source Community Africa(OSCA) is a diverse community which supports develop
 
 ### Note:
 
-Any issues as a result of a break of this guide would be resolved by the core team.
+Any issues as a result of a break of this code would be resolved by the core team.
 A break of any rule is punishable, the height of the punishment is dependent on the gravity of the offense and the final decision would be made by the core team. 
 
 The punishments:
