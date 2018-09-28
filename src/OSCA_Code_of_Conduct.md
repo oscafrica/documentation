@@ -8,7 +8,7 @@ Violations of this code of conduct can result:
 * Temporarily banned from the OSCA chatroom and/or O.S.C.A organization on github.
 * Permanently banned from the OSCA chatroom and/or O.S.C.A organization on github.
 * Permanently dropped as a chapter lead.
-* members permanently removed from the O.S.C.A community. 
+* Members permanently removed from the O.S.C.A community. 
 
 Always make use of your best judgement and if you’d like more clarity or have questions feel free to reach out: info@oscafrica.org
 
@@ -17,7 +17,7 @@ Always make use of your best judgement and if you’d like more clarity or have 
 ## Community Guidelines and Anti-Harrasment policy:
 
 ### Members and Contributors Acknowledgement: 
-* Respect: We're all part of the same community, be friendly, welcoming, and generally a nice person. All members of OSCA are expected to be of most polite manner when interacting with other members. Treat others how you want to be treated, be someone that other people want to be around. It’s all about “team effort”
+* Respect: We're all part of the same community, be friendly, welcoming, and generally a nice person. All members of OSCA are expected to be of most polite manner when interacting with other members. Treat others how you want to be treated, be someone that other people want to be around. It’s all about “team effort.”
 
 * Considerate: All opinions matter, in some cases you would find yourself compromising and that is the team spirit. You are not a team because you work together, you are team because you trust, respect and care for each other.
 
@@ -51,5 +51,5 @@ The Community Guidelines and Anti- Harassment Policy must be followed. The Anti-
 
 * It’s deemed inappropriate to use O.S.C.A for profit. Organizers should only charge attendees for ticket entry and/or get sponsorships to cover costs of event operations (e.g. food and drinks, venue, setup, speakers) if needed.
 * It’s okay to partner with other tech groups and companies to arrange speakers, venues, and sponsorships.
-* It’s appropriate to talk about related open source technologies in your community. We want to promote learning across technologies 
+* It’s appropriate to talk about related open source technologies in your community. We want to promote learning across technologies.
 * The use of the O.S.C.A name/logo is granted to organizers as long as follow the O.S.C.A naming guidelines.
