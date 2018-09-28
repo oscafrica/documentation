@@ -1,6 +1,6 @@
 # Naming guidelines
 
-1. Name: The official name for the platform is “Open source community Africa” with an acronym as  O.S.C.A.
+1. Name: The official name for the platform is “Open Source Community Africa” with its acronym as O.S.C.A.
 
 ### Do’s
 * Refer to the community as “O.S.C.A”
@@ -16,7 +16,7 @@
 * Name your chapter with a “Location” that is a city or area (e.g. London, Silicon Valley)Refer to your chapter as “OSCA (Location)"
 
 ### Don’t
-* Refer to your chapter as a “Open source community (Location)” “Open source africa (Location) or “Open source (Location)]”.
+* Refer to your chapter as a “Open source community (Location),” “Open source africa (Location)" or “Open source (Location).”
 * Name your chapter with a “Location” that is a country or continent (e.g. Ghana, South-Africa, Africa).
 
 # Logo Guidelines:
