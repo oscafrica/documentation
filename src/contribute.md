@@ -3,7 +3,7 @@
 
 We use the pull-request model, see [GitHub's help on pull-request](https://help.github.com/articles/using-pull-requests).
 
-In brief, you will:
+In quick summary, you will:
 
 * on GitHub, find and fork the source repository;
 * on your computer, clone your fork repository,
