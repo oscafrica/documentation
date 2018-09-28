@@ -10,7 +10,7 @@ Violations of this code of conduct can result:
 * Permanently dropped as a chapter lead.
 * members permanently removed from the O.S.C.A community. 
 
-Always make use of your best judgement, and if you’d like more clarity or have questions feel free to reach out: info@oscafrica.org
+Always make use of your best judgement and if you’d like more clarity or have questions feel free to reach out: info@oscafrica.org
 
 
 
@@ -31,7 +31,7 @@ Always make use of your best judgement, and if you’d like more clarity or have
 	- Speak up if you see or hear something- Harassment is NEVER tolerated, and you are empowered to politely engage when you or anyone is disrespected. The person making you feel uncomfortable may not be aware of their actions and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the event or meetup organizers may take any action they deem appropriate, including warning or expelling the offender from the event or meetup with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
 	- Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention. 
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+_Participants asked to stop any harassing behavior are expected to comply immediately_.
 
 * Safety: At any offline OSCA meetups or events,  there shall be no weapons allowed, and no smoking on the premises.
 
