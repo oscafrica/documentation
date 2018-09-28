@@ -6,7 +6,7 @@ We use the pull-request model, see [GitHub's help on pull-request](https://help.
 In quick summary, you will:
 
 * on GitHub, find and fork the source repository;
-* on your computer, clone your fork repository,
+* on your computer, clone your forked repository,
 * commit your changes in a new branch;
 * push your branch and submit a pull-request for it;
 * go through the review process until your pull-request is merged; and
