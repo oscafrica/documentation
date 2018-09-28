@@ -4,7 +4,7 @@ Welcome to our resources guide for members looking to know more about O.S.C.A an
 
 ## Get started -
 
-* [Code of Conduct](src/OSCA Code of Conduct.md)
+* [Code of Conduct](src/OSCA_Code_of_Conduct.md)
 * [Contribute](src/contribute.md)
 * [Chapter naming and logo guidelines](src/guidelines.md)
 * [Want to imporve any of our documentations?](src/documentation.md)
