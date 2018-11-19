@@ -24,6 +24,6 @@
 * Official O.S.C.A logo colors and combination scheme - Orange, white and black
 * Official O.S.C.A logo color combination scheme - Orange O.S.C.A icon on white background /  White O.S.C.A icon on black background
 
-_Logos can be gotten [here](logo)_
+_Logos can be gotten [here](https://raw.githubusercontent.com/oscommunityafrica/docs/master/logo/osca.png)_
 
 
