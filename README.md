@@ -9,3 +9,4 @@ Welcome to our resources guide for members looking to know more about O.S.C.A an
 * [Chapter naming and logo guidelines](src/guidelines.md)
 * [Want to imporve any of our documentations?](src/documentation.md)
 * [Contact](src/contact-us.md)
+* [Governance](src/GOVERNANCE.md)
