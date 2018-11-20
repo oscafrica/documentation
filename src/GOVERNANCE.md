@@ -1,4 +1,4 @@
-# LibreHealth Community Governance
+# Open Source Community Africa (O.S.C.A) Governance
 
 This policy came into effect in June 2016 and will be reviewed periodically
 (see revision sections). The last modification has been made in June 2016.
