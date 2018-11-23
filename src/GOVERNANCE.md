@@ -5,9 +5,9 @@ This policy came into effect in June 2016 and will be reviewed periodically
 
 ## Goals
 
-The goals of LibreHealth Governance are to:
+The goals of Open Source Community Africa Governance are to:
 
-- Create a set of minimum requirements for a sub-project hosted on LibreHealth.io,
+- Create a set of minimum requirements for a sub-project hosted on oscafrica.org,
 - Create a lightweight project life cycle that:
   - leads the project to articulate its goals and how to achieve them,
   - encourages desired behaviors (e.g., open development),
@@ -15,14 +15,14 @@ The goals of LibreHealth Governance are to:
   - leads to non-viable projects failing quickly, and
   - provides opportunities for other community members.
 - Avoid bureaucracy, i.e., the life cycle should be as informal as possible,
-- Encourage LibreHealth-related projects to be hosted on LibreHealth.io rather than going elsewhere, and
+- Encourage Open Source Community Africa-related projects to be hosted on oscafrica.org rather than going elsewhere, and
 - Set clear expectations to vendors, upstream and downstream projects, and community members.
 
 ## Principles
 
 ### Openness
 
-LibreHealth is open to all individuals in their individual capacities, and
+Open Source Community Africa is open to all individuals in their individual capacities, and
 provides the same opportunity to all. Everyone participates with the same rules.
 There are no rules to exclude prima facie any potential individual contributors,
 which include individuals associated with direct competitors in the marketplace.
@@ -35,13 +35,13 @@ easily accessible to everyone.
 
 ### Meritocracy
 
-The LibreHealth community is a meritocracy. The more you contribute, the more
-responsibility you will earn. Leadership roles in LibreHealth are also merit-based
+The Open Source Community Africa community is a meritocracy. The more you contribute, the more
+responsibility you will earn. Leadership roles in Open Source Community Africa are also merit-based
 and earned by peer acclaim.
 
 ### Consensus Decision Making
 
-LibreHealth projects or teams are self-governing and driven by the people who
+Open Source Community Africa projects or teams are self-governing and driven by the people who
 volunteer for the job. When more formal decision making and coordination
 is required, decisions are taken with a ["lazy consensus"](http://openoffice.apache.org/docs/governance/lazyConsensus.html) approach: a few positive
 votes with no negative vote is enough to get going.
@@ -53,7 +53,7 @@ is in operation.
 
 What this means is that they make a proposal and state that they will start
 implementing it in **72 hours** unless someone objects. 72 hours is chosen because
-it accounts for different timezones and non-LibreHealth commitments. If the 72 hours
+it accounts for different timezones and non-Open Source Community Africa commitments. If the 72 hours
 are touching a weekend/holidays it would be wise to extend the timeframe a bit.
 This will ensure that people can participate in the proposal even when they
 were offline over the weekend.
@@ -73,12 +73,12 @@ majority of cases, the concerns leading to the negative vote can be addressed.
 
 ### Refereeing
 
-LibreHealth projects and teams are not democracies, but meritocracies. In
+Open Source Community Africa projects and teams are not democracies, but meritocracies. In
 situations where there is disagreement on issues related to the day-to-day
 running of the project, Committers and Project Leads are expected to act as
-referees and make a decision on behalf of the LibreHealth community. Referees
+referees and make a decision on behalf of the Open Source Community Africa community. Referees
 should consider whether making a decision may be divisive and damaging for the
-LibreHealth community. In such cases, the committers of the project can
+Open Source Community Africa community. In such cases, the committers of the project can
 privately vote on an issue, giving the decision more weight.
 
 ### Last Resort
@@ -91,13 +91,13 @@ project lead gets an extra vote to break the tie.
 
 For questions that affect several projects, committers and project leads of
 mature projects will hold a secret ballot majority vote. If the vote is tied,
-the LibreHealth Steering Committee will break the tie through a casting vote.
+the Open Source Community Africa Steering Committee will break the tie through a casting vote.
 
 ## Roles
 
 ### Maintainers
 
-Maintainers own one or several components in LibreHealth. A maintainer reviews
+Maintainers own one or several components in Open Source Community Africa. A maintainer reviews
 and approves changes that affect their components. It is a maintainer's prime
 responsibility to review, comment on, co-ordinate and accept patches from
 community members, and to maintain the design cohesion of their components.
@@ -115,15 +115,15 @@ the project's team web page.
 
 ### Projects and Teams
 
-LibreHealth organizes itself into a number of projects, which follow the
+Open Source Community Africa organizes itself into a number of projects, which follow the
 Project Governance (or Project Lifecycle) as outlined in this document. Projects
 are run by individuals and are often referred to as teams to highlight the
 collaborative nature of development. For example, each project has a team page
-on LibreHealth.io.
+on oscafrica.org.
 
 ### Project Lead
 
-LibreHealth projects and teams are managed by a Project Lead, who is also a
+Open Source Community Africa projects and teams are managed by a Project Lead, who is also a
 committer of the project/team they lead. Project Lead is the public
 figurehead of the project and is responsible for the health of the project. Due
 to their status in the community, project leads can also act as referees should
@@ -131,13 +131,13 @@ disagreements amongst committers of the project arise. The project lead
 typically also has write access to resources, such as the web page of a specific
 project.
 
-### LibreHealth Steering Committee
+### Open Source Community Africa Steering Committee
 
-The LibreHealth Steering Committee consists of members who are committed to
-steering LibreHealth to advance its market and technical success, and who serve
-as positive ambassadors for the project. The LibreHealth Steering Committee
-manages non-technical aspects of LibreHealth including funding for shared
-project infrastructure, marketing and events, and managing LibreHealth
+The Open Source Community Africa Steering Committee consists of members who are committed to
+steering Open Source Community Africa to advance its market and technical success, and who serve
+as positive ambassadors for the project. The Open Source Community Africa Steering Committee
+manages non-technical aspects of Open Source Community Africa including funding for shared
+project infrastructure, marketing and events, and managing Open Source Community Africa
 trademarks. The Steering Committee leaves all technical decisions to the open
 source meritocracy.
 
@@ -151,7 +151,7 @@ incubation to maturity.
 
 ### Sponsor
 
-To form a new LibreHealth project or team, we require a sponsor to support the
+To form a new Open Source Community Africa project or team, we require a sponsor to support the
 creation of the new project. A sponsor can be a project lead or committer of a
 mature project, a member of the Steering Committee or the community manager.
 This ensures that a distinguished community member supports the idea behind
@@ -159,14 +159,14 @@ the project and is responsible to find an appropriate mentor for the project.
 
 ## Making Contributions
 
-Making contributions in LibreHealth follows the conventions as they are known
+Making contributions in Open Source Community Africa follows the conventions as they are known
 in the Linux Kernel community. In summary, contributions are made through
-pull requests that are reviewed by the community. LibreHealth does not require
+pull requests that are reviewed by the community. Open Source Community Africa does not require
 community members to sign contribution or committer agreements.
 
 More information on making contributions can be found in the following documents:
 
-- [Contribution Guidelines for LibreHealth Toolkit](https://gitlab.com/librehealth/lh-toolkit/blob/master/CONTRIBUTING.md)
+- [Contribution Guidelines for Open Source Community Africa Toolkit](https://gitlab.com/Open Source Community Africa/lh-toolkit/blob/master/CONTRIBUTING.md)
 - Contribution Guidelines (others upcoming)
 
 ## Elections and Formal Votes
@@ -196,12 +196,12 @@ through election be promoted to Committer. A two-stage mechanism is used:
 
 - **Nomination:** Community members should nominate candidates by posting
 a proposal by sending a direct message to the "Appointments" group on
-LibreHealth Forums, explaining the candidate's contributions to the project
+Open Source Community Africa Forums, explaining the candidate's contributions to the project
 and thus why they should be elected to become a Committer of the project.
 The nomination should cite evidence such as patches and other contributions
 where the case is not obvious. Existing Committers will review all proposals,
 check whether the nominee would be willing to accept the nomination
-and publish suitable nominations in the LibreHealth Forums publicly
+and publish suitable nominations in the Open Source Community Africa Forums publicly
 for wider community input.
 - **Election:** A committer will be elected using the decision making process
 outlined earlier. Voting will be done by committers for that project privately
@@ -218,14 +218,14 @@ lead and follow the election process as outlined above.
 
 ### Formal Votes
 
-Sometimes it is necessary to conduct formal voting within the LibreHealth
+Sometimes it is necessary to conduct formal voting within the Open Source Community Africa
 community (outside of elections). Formal votes are necessary when processes and
 procedures are introduced or changed, or as part of the Project Governance. Who
 is eligible to vote, depends on whether the scope of a process or procedure is
 **local** to a project or team, or whether it affects all projects (**global**).
 An examples of local scope is a code review policy which applies to the EMR
 project only. Examples of global scope are changes to this document or votes
-outlined in the LibreHealth Community Governance document.
+outlined in the Open Source Community Africa Community Governance document.
 
 - **Scope:** Local
   - **Who reviews:** Members of developer mailing lists of the affected projects.
@@ -233,8 +233,8 @@ outlined in the LibreHealth Community Governance document.
   by the process, procedure, etc. are allowed to vote. This includes maintainers
   from incubation projects (if the scope affects the project).
 - **Scope:** Global
-  - **Who reviews:** Readers of all LibreHealth Forums project categories.
-  - **Who votes:** Maintainers of all **mature projects** and the LibreHealth
+  - **Who reviews:** Readers of all Open Source Community Africa Forums project categories.
+  - **Who votes:** Maintainers of all **mature projects** and the Open Source Community Africa
   community manager are allowed to vote.
 
 The community manager first arranges a public review, followed by a timed
@@ -251,16 +251,16 @@ The proposal is to follow a simple basic flow:
 
 ![alt tag](http://i.imgur.com/f1mgSxN.png)
 
-A LibreHealth project starts with an idea which through the process of project
+A Open Source Community Africa project starts with an idea which through the process of project
 formation will grow into a project proposal. The project proposal will need to
 satisfy some basic conditions, will be put out for community review and is then
-put to a vote to all maintainers and project leads of mature LibreHealth
+put to a vote to all maintainers and project leads of mature Open Source Community Africa
 projects following the usual decision making process.
 
-For agreed project proposals, LibreHealth will provide basic infrastructure and
+For agreed project proposals, Open Source Community Africa will provide basic infrastructure and
 the project can get started. Projects in incubation are working towards a set of
 goals, will get additional support and marketing opportunities from the
-LibreHealth. However, there will also be regular checkpoints to see whether the
+Open Source Community Africa. However, there will also be regular checkpoints to see whether the
 project is progressing. Should it turn out that a project is not viable any
 more, it will be archived after an archival review and vote. For a project to
 graduate, some basic conditions must be satisfied. If a project in incubation
@@ -268,7 +268,7 @@ has achieved the point where it believes it is mature enough to graduate, it can
 request a Graduation community review followed by a vote.
 
 Mature projects are expected to run themselves. However, at some point a mature
-project will lose momentum and developers. If this is the case the LibreHealth
+project will lose momentum and developers. If this is the case the Open Source Community Africa
 community can request an archival review, which follows the usual pattern.
 
 Archival reviews have two purposes:
@@ -287,7 +287,7 @@ become inactive.
 **Requesting Reviews:** Project Proposal and Graduation Reviews are requested by the
 (prospective) project lead of the project by contacting the community manager
 providing the necessary documentation. An archival review can be requested by
-any maintainer of a mature project or by the LibreHealth community manager. The
+any maintainer of a mature project or by the Open Source Community Africa community manager. The
 community manager will then publish relevant material on the respective forums.
 
 **Reviews:** These are off-line reviews which are open to all community members by
@@ -304,15 +304,15 @@ Formal Votes.
 
 ### Forming a Project
 
-Requirements for forming a LibreHealth project (or team):
+Requirements for forming a Open Source Community Africa project (or team):
 
 - A project needs a lead, who is willing to become the project lead of the sub-project.
-- A project needs a sponsor, which can be a project lead of a mature project, a member of the LibreHealth Steering Committee, or the community manager.
+- A project needs a sponsor, which can be a project lead of a mature project, a member of the Open Source Community Africa Steering Committee, or the community manager.
 - There should be no dissent from other community members who would qualify as sponsor (see "Principle: Consensus Decision Making").
 - A project needs a mentor, which can be the project sponsor or a maintainer of a mature project.
-- A project needs to have a relationship to other projects or teams, i.e., it aims to develop software that has a dependency on other LibreHealth projects or teams. If the project needs components in other projects to work, then this should also be stated.
+- A project needs to have a relationship to other projects or teams, i.e., it aims to develop software that has a dependency on other Open Source Community Africa projects or teams. If the project needs components in other projects to work, then this should also be stated.
 - A project needs to be large and long-term enough to grant a separate project. For example adding support for a new clinical domain, adding additional functionality on top of existing projects, etc. Adding a new feature to an existing project should be performed within an existing project.
-- A project will deliver code using a license that is compatible with other LibreHealth projects, ideally MPL 2.0 HD.
+- A project will deliver code using a license that is compatible with other Open Source Community Africa projects, ideally MPL 2.0 HD.
 
 The purpose of the project formation phase is to work out what the project is
 about, get community buy-in and help the future project gain publicity and
@@ -320,12 +320,12 @@ momentum. The formation phase is driven by that project's project lead. The
 project mentor's role is to advise and support the project lead in getting the
 project started.
 
-The project proposal is a document that is published on forums.librehealth.io
+The project proposal is a document that is published on forums.oscafrica.org
 and describes:
 
 - What the project is aiming to achieve, i.e., the project charter and project goals,
 - What components/code and in which code lines (new or components in other projects) the project aims to deliver,
-- Key dependencies on other LibreHealth projects or teams, if applicable,
+- Key dependencies on other Open Source Community Africa projects or teams, if applicable,
 - A list of initial maintainers, if applicable,
 - A lists of any interested parties in the project, if applicable,
 - A lists of any planned initial code contributions, if applicable, and
@@ -338,23 +338,23 @@ The review is initiated by the project lead and follows the rules outlined in
 
 After a successful review, the following resources will be created for the project:
 
-- A category in the LibreHealth forums,
+- A category in the Open Source Community Africa forums,
 - A code repository, and
-- A project or team page on LibreHealth.io, in an area separate from mature projects, to be maintained by the project lead.
+- A project or team page on oscafrica.org, in an area separate from mature projects, to be maintained by the project lead.
 
 ### Incubating a Project
 
 The purpose of the incubation phase is for a project to show that it is
-gathering momentum and adheres to the "Principles & Roles" of LibreHealth
+gathering momentum and adheres to the "Principles & Roles" of Open Source Community Africa
 projects. The project mentor will work closely with the project lead and there
 are at least quarterly informal review meetings with the mentor on how the
 project is doing. Should a mentor not be able to fulfill his/her role any more,
 it is the responsibility of the project lead to find another mentor. We advise
-that the project lead gives at least quarterly updates on the LibreHealth blog
+that the project lead gives at least quarterly updates on the Open Source Community Africa blog
 on how the project is doing.
 
-LibreHealth will provide support to incubating projects. The project lead will
-work closely with the LibreHealth community manager as well as with the
+Open Source Community Africa will provide support to incubating projects. The project lead will
+work closely with the Open Source Community Africa community manager as well as with the
 project mentor.
 
 ### Archiving an Incubating project
@@ -381,16 +381,16 @@ Other items to look at during the review (depending on project are):
 
 1. It has up-to-date documentation and a core and group of people maintaining it.
 2. It publishes regular builds and tests.
-3. It promotes itself at LibreHealth events and on the LibreHealth blog.
+3. It promotes itself at Open Source Community Africa events and on the Open Source Community Africa blog.
 
 ### Mature Projects
 
 Mature projects are expected to be run and promote themselves. The project lead
-has significant responsibility in ensuring that this happens. The LibreHealth
+has significant responsibility in ensuring that this happens. The Open Source Community Africa
 Steering Committee and the community manager will help organize events, provide
 opportunities for the project to get new contributors and build a community,
 promote new releases on the blog and to the press, work with project members,
-etc. However the LibreHealth Steering Committee and the community manager will
+etc. However the Open Source Community Africa Steering Committee and the community manager will
 not get involved in the day-to-day running of the project.
 
 At some point during its lifecycle, a project may lose momentum. In other words,
@@ -408,13 +408,13 @@ These can happen in a number of situations:
 
 In the first case, the review is triggered by the incubation project's mentor.
 Failing this, the review can be requested by any maintainer of any mature
-project (including the project's lead) or by the LibreHealth community manager.
+project (including the project's lead) or by the Open Source Community Africa community manager.
 See "Requesting Reviews, Reviews and Voting".
 
 The review is essentially a pitch why the project should be archived. The
 purpose of the review is not necessarily to archive a project, but also to
-provide a last opportunity for interested parties in the LibreHealth community
-to save the project and step up. The LibreHealth community manager will support
+provide a last opportunity for interested parties in the Open Source Community Africa community
+to save the project and step up. The Open Source Community Africa community manager will support
 efforts to save the project, should community members want to step up. In the
 case where a project has been completed, the normal situation would be for the
 project lead to make the case for archival.
@@ -423,11 +423,11 @@ project lead to make the case for archival.
 
 When a project is archived, the following happens:
 
-1. The code repository and forums will be made read-only and made accessible from an "archived projects" section of LibreHealth.io.
+1. The code repository and forums will be made read-only and made accessible from an "archived projects" section of oscafrica.org.
 2. The project's documentation pages will be tagged as "archived". A project may be completed, i.e.,  it has achieved its goals and/or fulfilled its charter, in which case it is tagged as "completed" and "archived".
-3. The project or team page on LibreHealth.io will be moved into an "Archive" or "Completed" section.
+3. The project or team page on oscafrica.org will be moved into an "Archive" or "Completed" section.
 
-In cases where the project has delivered code into other LibreHealth projects, the code will be:
+In cases where the project has delivered code into other Open Source Community Africa projects, the code will be:
 
 - Deprecated at the point where the project is archived, and
 - The project which now contains the archived code can (but does not have to) remove the code in a subsequent release (it should however give users sufficient time to adapt)
@@ -446,14 +446,14 @@ we assume that the project does not have enough momentum and will not go ahead.
 
 ### Incubation projects without Mentor
 
-Should an incubation project lose its mentor, the LibreHealth community manager
+Should an incubation project lose its mentor, the Open Source Community Africa community manager
 will support the project lead in finding a new mentor.
 
 ## Acknowledgements
 
-*This work, "LibreHealth Community Governance", is a derivative of "Xen Project
+*This work, "Open Source Community Africa Community Governance", is a derivative of "Xen Project
 Governance" by Xen Project, used under the Creative Commons Attribution 3.0
-License (CC BY 3.0). "LibreHealth  Community Governance" is licensed under the
+License (CC BY 3.0). "Open Source Community Africa  Community Governance" is licensed under the
 Creative Commons 4.0 International Attribution License (CC BY 4.0) by Humanitech
 Inc.*
 
