@@ -334,7 +334,7 @@ and describes:
 ### Project Proposal Review
 
 The review is initiated by the project lead and follows the rules outlined in
-"Requesting Reviews, Reviews and Voting".
+[Requesting Reviews, Reviews and Voting](https://github.com/oscommunityafrica/docs/blob/master/src/GOVERNANCE.md#requesting-reviews-reviews-and-voting).
 
 After a successful review, the following resources will be created for the project:
 
@@ -360,12 +360,12 @@ project mentor.
 ### Archiving an Incubating project
 
 The mentor can request for a project to be archived, if the project is not
-making sufficient progress. See "Archival Review".
+making sufficient progress. See [Archival Review](https://github.com/oscommunityafrica/docs/blob/master/src/GOVERNANCE.md#archival-review).
 
 ### Graduation Review
 
 The review is initiated by the project lead and follows the rules outlined in
-"Requesting Reviews, Reviews and Voting". In essence, the project lead makes a
+[Requesting Reviews, Reviews and Voting](https://github.com/oscommunityafrica/docs/blob/master/src/GOVERNANCE.md#requesting-reviews-reviews-and-voting). In essence, the project lead makes a
 pitch to the community about why the project should graduate.
 
 A project must fulfill the following requirements before it can graduate:
@@ -409,7 +409,7 @@ These can happen in a number of situations:
 In the first case, the review is triggered by the incubation project's mentor.
 Failing this, the review can be requested by any maintainer of any mature
 project (including the project's lead) or by the Open Source Community Africa community manager.
-See "Requesting Reviews, Reviews and Voting".
+See [Requesting Reviews, Reviews and Voting](https://github.com/oscommunityafrica/docs/blob/master/src/GOVERNANCE.md#requesting-reviews-reviews-and-voting).
 
 The review is essentially a pitch why the project should be archived. The
 purpose of the review is not necessarily to archive a project, but also to
@@ -423,9 +423,9 @@ project lead to make the case for archival.
 
 When a project is archived, the following happens:
 
-1. The code repository and forums will be made read-only and made accessible from an "archived projects" section of oscafrica.org.
-2. The project's documentation pages will be tagged as "archived". A project may be completed, i.e.,  it has achieved its goals and/or fulfilled its charter, in which case it is tagged as "completed" and "archived".
-3. The project or team page on oscafrica.org will be moved into an "Archive" or "Completed" section.
+1. The code repository and forums will be made read-only and made accessible from an `archived projects` section of oscafrica.org.
+2. The project's documentation pages will be tagged as `archived`. A project may be completed, i.e.,  it has achieved its goals and/or fulfilled its charter, in which case it is tagged as `completed` and `archived`.
+3. The project or team page on oscafrica.org will be moved into an `Archive` or `Completed` section.
 
 In cases where the project has delivered code into other Open Source Community Africa projects, the code will be:
 
@@ -439,7 +439,7 @@ In cases where the project has delivered code into other Open Source Community A
 Projects which lose their project lead during the incubation or maturity phase
 are at risk of failing. Should this occur, the project's maintainer community
 should agree who would want to be/be able to be the new project lead and follow
-the election process as outlined in "Electing Maintainers".
+the election process as outlined in [Maintainers Election](https://github.com/oscommunityafrica/docs/blob/master/src/GOVERNANCE.md#maintainer-elections).
 
 If a project lead leaves during the formation phase without finding a successor,
 we assume that the project does not have enough momentum and will not go ahead.
