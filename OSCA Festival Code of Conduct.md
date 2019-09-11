@@ -1,4 +1,4 @@
-OSCA Events Code of Conduct
+# **OSCA Events Code of Conduct**
 
 All organizers, attendees, speakers, sponsors, and volunteers at OSCA
 community events are required to agree to uphold the following code of
