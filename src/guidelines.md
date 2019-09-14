@@ -21,8 +21,9 @@
 
 # Logo Guidelines:
 * Official O.S.C.A font - ORIBITRON
-* Official O.S.C.A logo colors and combination scheme - Orange, white and black
+* Official O.S.C.A logo colors and combination codes - #F7931E, #FFFFFF and #000000
 * Official O.S.C.A logo color combination scheme - Orange O.S.C.A icon on white background /  White O.S.C.A icon on black background
+* When creating your logo, your city name should have a line spacing of 5
 
 _Logos can be gotten [here](https://raw.githubusercontent.com/oscommunityafrica/docs/master/logo/osca.png)_
 
