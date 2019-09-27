@@ -20,10 +20,10 @@
 * Name your chapter with a “Location” that is a country or continent (e.g. Ghana, South-Africa, Africa).
 
 # Logo Guidelines:
-* Official O.S.C.A font - ORIBITRON
+* Official O.S.C.A icon "OS" font - ORIBITRON
 * Official O.S.C.A logo colors and combination codes - #F7931E, #FFFFFF and #000000
 * Official O.S.C.A logo color combination scheme - Orange O.S.C.A icon on white background /  White O.S.C.A icon on black background
-* When creating your logo, your city name should have a line spacing of 5
+* When creating your logo, your city name should have a line spacing of 5 with the font - GOOGLE SANS
 
 _Logos can be gotten [here](https://raw.githubusercontent.com/oscommunityafrica/docs/master/logo/osca.png)_
 
