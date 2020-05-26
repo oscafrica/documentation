@@ -146,13 +146,9 @@ This Code of Conduct applies to the following people in official Open Source Com
  - Contributors
  - All community members
 
-Each online space listed above is required to provide the following information to Open Source Community Africa Code of Conduct work group:
+**Each online space listed above is required to provide contact information for any administrators/moderators to Open Source Community Africa Code of Conduct work group.**
 
- - Contact information for any administrators/moderators
-
-Each online space listed above is encouraged to provide the following information to community members:
-
- - A welcome message with a link to this Code of Conduct and the contact information for making an incident report <community@oscafrica.org>
+**Each online space listed above is encouraged to provide a welcome message with a link to this Code of Conduct and the contact information for making an incident report <community@oscafrica.org> to community members.**
 
 Open Source Community Africa Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. Open Source Community Africa Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, Open Source Community Africa Code of Conduct work group may choose to notify the Open Source Community Africa board.
 
