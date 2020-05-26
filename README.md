@@ -1,4 +1,4 @@
-# Open Source Community Africa - O.S.C.A
+# WELCOME
 
 [![Backers on Open Collective](https://opencollective.com/osca/backers/badge.svg)](./#backers) [![Sponsors on Open Collective](https://opencollective.com/osca/sponsors/badge.svg)](./#sponsors)
 
@@ -6,12 +6,12 @@ Welcome to our resources guide for members looking to know more about O.S.C.A an
 
 ## Get started -
 
-* [Code of Conduct](src/osca_code_of_conduct.md)
-* [Contribute](src/contribute.md)
-* [Chapter naming and logo guidelines](src/guidelines.md)
-* [Want to improve any of our documentations?](src/documentation.md)
-* [Contact](src/contact-us.md)
-* [Governance](src/governance.md)
+* [Code of Conduct]()
+* [Contribute](contributing-1/engineering/contribute.md)
+* [Chapter naming and logo guidelines](about/guidelines.md)
+* [Want to improve any of our documentations?]()
+* [Contact]()
+* [Governance](about/the-osca-way/governance.md)
 
 ## Contributors
 

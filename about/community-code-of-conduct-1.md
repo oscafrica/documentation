@@ -1,4 +1,4 @@
-# Open Source Community Africa - Code of Conduct
+# Community Code of Conduct
 
 #### _“Alone we can do so little, together we can do so much”_
 
