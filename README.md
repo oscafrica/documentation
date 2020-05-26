@@ -7,7 +7,7 @@ Welcome to our resources guide for members looking to know more about O.S.C.A an
 ## Get started -
 
 * [Code of Conduct]()
-* [Contribute](contributing-1/engineering/contribute.md)
+* [Contribute](contributing/engineering/contribute.md)
 * [Chapter naming and logo guidelines](about/guidelines.md)
 * [Want to improve any of our documentations?]()
 * [Contact]()

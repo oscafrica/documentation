@@ -18,7 +18,6 @@
   * [Core Contributors: Communication](about/the-osca-way/core-contributors-communication.md)
   * [Core Contributors: Expenses](about/the-osca-way/core-contributors-expenses.md)
   * [OSCA Governance](about/the-osca-way/governance.md)
-* [Contributing](contributing.md)
 
 ## COMMUNITY
 
@@ -40,22 +39,23 @@
 * [Google Code-In](oss-programs/google-code-in.md)
 * [Google Summer of Code](oss-programs/google-summer-of-code.md)
 * [Google Season of Docs](oss-programs/google-season-of-docs.md)
+* [Outreachy](oss-programs/outreachy.md)
 
-## CONTRIBUTING <a id="contributing-1"></a>
+## CONTRIBUTING
 
-* [Engineering](contributing-1/engineering/README.md)
-  * [Contribution Guide](contributing-1/engineering/contribute.md)
-  * [Best Practice Guidelines](contributing-1/engineering/best-practice-guidelines.md)
-  * [README Integration](contributing-1/engineering/readme-integration.md)
-* [Design](design/README.md)
-  * [Design Workflow](design/design-workflow.md)
-  * [Design Contribution Guidelines](design/design-contribution-guidelines.md)
-* [Documentation](documentation/README.md)
-  * [Documentation Workflow](documentation/documentation-workflow.md)
-  * [Style Guide](documentation/style-guide.md)
-  * [Documentation Contribution Guidelines](documentation/documentation-contribution-guidelines.md)
-  * [Useful Resources](documentation/useful-resources.md)
-* [Issue Labels](issue-labels.md)
+* [Engineering](contributing/engineering/README.md)
+  * [Contribution Guide](contributing/engineering/contribute.md)
+  * [Best Practice Guidelines](contributing/engineering/best-practice-guidelines.md)
+  * [README Integration](contributing/engineering/readme-integration.md)
+* [Design](contributing/design/README.md)
+  * [Design Workflow](contributing/design/design-workflow.md)
+  * [Design Contribution Guidelines](contributing/design/design-contribution-guidelines.md)
+* [Documentation](contributing/documentation/README.md)
+  * [Documentation Workflow](contributing/documentation/documentation-workflow.md)
+  * [Style Guide](contributing/documentation/style-guide.md)
+  * [Documentation Contribution Guidelines](contributing/documentation/documentation-contribution-guidelines.md)
+  * [Useful Resources](contributing/documentation/useful-resources.md)
+* [Issue Labels](contributing/issue-labels.md)
 
 ## PROJECTS
 
