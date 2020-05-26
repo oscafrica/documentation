@@ -14,13 +14,3 @@ Welcome to our resources guide for members looking to know more about O.S.C.A an
 
 ## FAQs
 
-## Financial Contributors
-
-Become a financial contributor and help us sustain our community. \[[Contribute](https://opencollective.com/osca/contribute)\]
-
-### Individuals
-
-### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. \[[Contribute](https://opencollective.com/osca/contribute)\]
-
