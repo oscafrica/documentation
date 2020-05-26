@@ -154,7 +154,7 @@ Open Source Community Africa Code of Conduct work group will receive and evaluat
 
 ### Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Open Source Community Africa Code of Conduct work group immediately. They can be reached by emailing <community@oscafrica.org> or messaging <Bolaji#3828> on [Discord](https://discord.gg/8STPZzN).
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Open Source Community Africa Code of Conduct work group immediately. They can be reached by emailing <community@oscafrica.org> or messaging *Bolaji#3828* on [Discord](https://discord.gg/8STPZzN).
 
 ## License
 
