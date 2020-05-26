@@ -8,36 +8,36 @@ Open Source Community Africa community is made up of members from around Africa,
 
 Members of Open Source Community Africa are **open, considerate, and respectful**. Behaviours that reinforce these values contribute to a positive environment, and include:
 
-- **Being open**
+### Being open
 
 Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise.
 Focusing on what is best for the community. We're respectful of the processes set forth in the community, and we work within them.
 
-- **Acknowledging time and effort**
+### Acknowledging time and effort
 
 We're respectful of the volunteer efforts that permeate the Python community. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community.
 
-- **Being respectful of differing viewpoints and experiences**.
+### Being respectful of differing viewpoints and experiences
 
 We're receptive to constructive comments and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts.
 
-- **Showing empathy towards other community members**.
+### Showing empathy towards other community members
 
 We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
 
-- **Being considerate**
+### Being considerate
 
 Members of the community are considerate of their peers -- other Python users.
 
-- **Being respectful**
+### Being respectful
 
 We're respectful of others, their positions, their skills, their commitments, and their efforts.
 
-- **Gracefully accepting constructive criticism**.
+### Gracefully accepting constructive criticism
 
 When we disagree, we are courteous in raising our issues.
 
-- **Using welcoming and inclusive language**
+### Using welcoming and inclusive language
 
 We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
@@ -45,7 +45,7 @@ We're accepting of all who wish to take part in our activities, fostering an env
 
 Every member of our community has the right to have their identity respected. The OSCA community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-#### Inappropriate Behavior
+### Inappropriate Behavior
 
 Examples of unacceptable behavior by participants include:
 
@@ -156,7 +156,7 @@ Each online space listed above is encouraged to provide the following informatio
 
 Open Source Community Africa Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. Open Source Community Africa Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, Open Source Community Africa Code of Conduct work group may choose to notify the Open Source Community Africa board.
 
-#### Contact Information
+### Contact Information
 
 If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Open Source Community Africa Code of Conduct work group immediately. They can be reached by emailing <community@oscafrica.org> or messaging <Bolaji#3828> on [Discord](https://discord.gg/8STPZzN).
 
