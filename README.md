@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/osca-logo.png)
 
-Welcome to our resources guide for members looking to know more about O.S.C.A and also make a contribution on any of our projects.
+Welcome to our resources guide for members looking to know more about **Open Source Community Africa** and also make a contribution on any of our projects.
 
 ## Get Started
 
@@ -20,7 +20,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 ### Individuals
 
-[![OSCA Financial Contributors](https://opencollective.com/osca/individuals.svg)](https://opencollective.com/osca)
+[![OSCA Financial Contributors](https://opencollective.com/osca/individuals.svg?width=900)](https://opencollective.com/osca)
 
 ### Organizations
 
