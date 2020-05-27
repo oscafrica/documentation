@@ -20,7 +20,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 ### Individuals
 
-[![OSCA Financial Contributors](https://opencollective.com/osca/individuals.svg?width=890)](https://opencollective.com/osca)
+[![OSCA Financial Contributors](https://opencollective.com/osca/individuals.svg)](https://opencollective.com/osca)
 
 ### Organizations
 
