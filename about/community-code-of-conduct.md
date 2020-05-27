@@ -15,7 +15,7 @@ Focusing on what is best for the community. We're respectful of the processes se
 
 ### Acknowledging time and effort
 
-We're respectful of the volunteer efforts that permeate the Python community. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community.
+We're respectful of the volunteer efforts that permeate the OSCA community. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community.
 
 ### Being respectful of differing viewpoints and experiences
 
@@ -27,7 +27,7 @@ We're attentive in our communications, whether in person or online, and we're ta
 
 ### Being considerate
 
-Members of the community are considerate of their peers -- other Python users.
+Members of the community are considerate of their peers -- other OSCA members.
 
 ### Being respectful
 
@@ -75,7 +75,7 @@ No weapons are allowed at OSCA events. Weapons include but are not limited to ex
 
 ### Consequences
 
-If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
+If a participant engages in behavior that violates this code of conduct, Open Source Community Africa Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 
 Thank you for helping make this a welcoming, friendly community for everyone.
 
@@ -123,7 +123,7 @@ The Code of Conduct applies to interactions with official event accounts on soci
   - Comments made on event video hosting services
   - Comments made on the official event hashtag or panel hashtags
 
-Event organizers will enforce this code throughout the event. Each event is required to provide a Code of Conduct committee that receives, evaluates, and acts on incident reports. Each event is required to provide contact information for the committee to attendees. The event Code of Conduct committee may (but is not required to) ask for advice from Open Source Community Africa Code of Conduct work group. Open Source Community Africa Code of Conduct work group can be reached by emailing <community@oscafrica.org>.
+Event organizers will enforce this code throughout the event. Each event is required to provide a Code of Conduct committee that receives, evaluates, and acts on incident reports. Each event is required to provide contact information for the committee to attendees. The event Code of Conduct committee may (but is not required to) ask for advice from Open Source Community Africa Code of Conduct team. Open Source Community Africa Code of Conduct team can be reached by emailing <community@oscafrica.org>.
 
 ### OSCA Online Spaces
 
@@ -146,15 +146,15 @@ This Code of Conduct applies to the following people in official Open Source Com
  - Contributors
  - All community members
 
-Each online space listed above is required to provide contact information for any administrators/moderators to Open Source Community Africa Code of Conduct work group.
+Each online space listed above is required to provide contact information for any administrators/moderators to Open Source Community Africa Code of Conduct team.
 
 Each online space listed above is encouraged to provide a welcome message with a link to this Code of Conduct and the contact information for making an incident report <community@oscafrica.org> to community members.
 
-Open Source Community Africa Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. Open Source Community Africa Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, Open Source Community Africa Code of Conduct work group may choose to notify the Open Source Community Africa board.
+Open Source Community Africa Code of Conduct team will receive and evaluate incident reports from the online communities listed above. Open Source Community Africa Code of Conduct team will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, Open Source Community Africa Code of Conduct team may choose to notify the Open Source Community Africa board.
 
 ### Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Open Source Community Africa Code of Conduct work group immediately. They can be reached by emailing <community@oscafrica.org> or messaging *Bolaji#3828* on [Discord](https://discord.gg/8STPZzN).
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Open Source Community Africa Code of Conduct team immediately. They can be reached by emailing <community@oscafrica.org> or messaging *Bolaji#3828* on [Discord](https://discord.gg/8STPZzN).
 
 ## License
 
