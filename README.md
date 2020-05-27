@@ -37,3 +37,5 @@ Support this project with your organization. Your logo will show up here with a 
 [![OSCA Financial Contributor](https://opencollective.com/osca/organization/8/avatar.svg)](https://opencollective.com/osca/organization/8/website)
 [![OSCA Financial Contributor](https://opencollective.com/osca/organization/9/avatar.svg)](https://opencollective.com/osca/organization/9/website)
 [![OSCA Financial Contributor](https://opencollective.com/osca/organization/10/avatar.svg)](https://opencollective.com/osca/organization/10/website)
+[![OSCA Financial Contributor](https://opencollective.com/osca/organization/11/avatar.svg)](https://opencollective.com/osca/organization/11/website)
+[![OSCA Financial Contributor](https://opencollective.com/osca/organization/12/avatar.svg)](https://opencollective.com/osca/organization/12/website)
