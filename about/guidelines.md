@@ -12,13 +12,12 @@
 ### Don’t:
 
 * Refer to the community as “Open source Africa” or “Open source community” instead of "O.S.C.A".
+* Chapter name:
 
-1. Chapter name:
+  **Do:**
 
-   **Do:**
-
-2. Each local O.S.C.A chapter must be named as “O.S.C.A \(Location\)”.
-3. Name your chapter with a “Location” that is a city or area \(e.g. London, Silicon Valley\)Refer to your chapter as “OSCA \(Location\)"
+* Each local O.S.C.A chapter must be named as “O.S.C.A \(Location\)”.
+* Name your chapter with a “Location” that is a city or area \(e.g. London, Silicon Valley\)Refer to your chapter as “OSCA \(Location\)"
 
 ### Don’t
 
