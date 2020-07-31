@@ -4,7 +4,11 @@
 
 ![](.gitbook/assets/osca-logo.png)
 
-Welcome to our resources guide for members looking to know more about **Open Source Community Africa** and also make a contribution on any of our projects.
+Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution on any of our projects. It's a work in progress, so please feel free to contribute and give us feedback.
+
+To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [documentation contribution guidelines](contributing/documentation/guidelines.md).
+
+If you need more help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord).
 
 ## Get Started
 
@@ -67,6 +71,14 @@ Open Source Community Africa is for open source lovers, enthusiasts, advocates a
 ### What’s an Open Source Community Africa?
 
 Open Source Community Africa is for open source lovers, enthusiasts, advocates and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the NEXT BILLION CREATORS.
+
+## Contact Us
+
+If you need more help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join our [Discord](https://bit.ly/osca-discord) server.
+
+## How can I Contribute
+
+Lorem ipsum
 
 ## Financial Contributors
 
