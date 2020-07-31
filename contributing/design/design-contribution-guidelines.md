@@ -1,2 +1,2 @@
-# Design Contribution Guidelines
+# Contribution Guidelines
 

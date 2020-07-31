@@ -1,4 +1,4 @@
-# Contribution Guide
+# Contribution Guidelines
 
 ## How to Contribute:
 

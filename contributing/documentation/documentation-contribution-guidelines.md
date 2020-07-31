@@ -1,2 +1,2 @@
-# Documentation Contribution Guidelines
+# Contribution Guidelines
 

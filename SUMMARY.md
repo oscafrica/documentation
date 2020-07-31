@@ -44,16 +44,14 @@
 ## CONTRIBUTING
 
 * [Engineering](contributing/engineering/README.md)
-  * [Contribution Guide](contributing/engineering/contribute.md)
-  * [Best Practice Guidelines](contributing/engineering/best-practice-guidelines.md)
-  * [README Integration](contributing/engineering/readme-integration.md)
+  * [Contribution Guidelines](contributing/engineering/contribute.md)
+  * [Conventions](contributing/engineering/conventions.md)
 * [Design](contributing/design/README.md)
-  * [Design Workflow](contributing/design/design-workflow.md)
-  * [Design Contribution Guidelines](contributing/design/design-contribution-guidelines.md)
+  * [Contribution Guidelines](contributing/design/design-contribution-guidelines.md)
+  * [Style Guide](contributing/design/style-guide.md)
 * [Documentation](contributing/documentation/README.md)
-  * [Documentation Workflow](contributing/documentation/documentation-workflow.md)
+  * [Contribution Guidelines](contributing/documentation/documentation-contribution-guidelines.md)
   * [Style Guide](contributing/documentation/style-guide.md)
-  * [Documentation Contribution Guidelines](contributing/documentation/documentation-contribution-guidelines.md)
   * [Useful Resources](contributing/documentation/useful-resources.md)
 * [Issue Labels](contributing/issue-labels.md)
 
