@@ -4,11 +4,11 @@
 
 ![](.gitbook/assets/osca-logo.png)
 
-Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution on any of our projects. It's a work in progress, so please feel free to contribute and give us feedback.
+Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution to any of our projects. This documentation is a work in progress, please feel free to contribute and give us feedback.
 
-To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [documentation contribution guidelines](contributing/documentation/guidelines.md).
+To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [documentation contribution guidelines](https://github.com/oscafrica/documentation/tree/830c94af25df4506859226cd3c2d6ec1003cfc80/contributing/documentation/guidelines.md).
 
-If you need more help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord).
+If you need more help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord) server.
 
 ## Get Started
 
@@ -36,6 +36,10 @@ Want to know more about Open Source Community Africa community guidelines? Read 
 
 {% page-ref page="about/guidelines.md" %}
 
+Got a question or inquiry? Read our **FAQs** section:
+
+{% page-ref page="about/faqs.md" %}
+
 Want to know more about Open Source Community Africa values? Read our **Values** section:
 
 {% page-ref page="about/values.md" %}
@@ -58,19 +62,7 @@ Want to know more about Open Source Community Africa projects? Read our **PROJEC
 
 Want to know more about Open Source Community Africa finance? Read our **FINANCE** section:
 
-Want to know more about Open Source Community Africa financial contributors? Read our **FINANCIAL CONTRIBUTORS** section:
-
 Want to know more about how to submit expenses to Open Source Community Africa? Read our **EXPENSES & GETTING PAID** section:
-
-## General FAQs
-
-### What’s an Open Source Community Africa?
-
-Open Source Community Africa is for open source lovers, enthusiasts, advocates and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the NEXT BILLION CREATORS.
-
-### What’s an Open Source Community Africa?
-
-Open Source Community Africa is for open source lovers, enthusiasts, advocates and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the NEXT BILLION CREATORS.
 
 ## Contact Us
 
@@ -78,7 +70,7 @@ If you need more help, please contact us at [community@oscafrica.org](mailto:com
 
 ## How can I Contribute
 
-Lorem ipsum
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ## Financial Contributors
 

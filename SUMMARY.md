@@ -8,6 +8,7 @@
 * [Terminology](about/terminology.md)
 * [Community Code of Conduct](about/community-code-of-conduct.md)
 * [Guidelines](about/guidelines.md)
+* [FAQs](about/faqs.md)
 * [Organization](about/organization.md)
 * [Values](about/values.md)
 * [Team](about/team.md)
@@ -36,7 +37,6 @@
 
 ## OSS Programs
 
-* [Google Code-In](oss-programs/google-code-in.md)
 * [Google Summer of Code](oss-programs/google-summer-of-code.md)
 * [Google Season of Docs](oss-programs/google-season-of-docs.md)
 * [Outreachy](oss-programs/outreachy.md)
@@ -66,7 +66,6 @@
 ## FINANCE
 
 * [Open Collective](finance/open-collective.md)
-* [FAQ](finance/faq.md)
 * [Tiers & Goals](finance/tiers-and-goals.md)
 * [Transparent Budget](finance/transparent-budget.md)
 * [Expense Policy](finance/expense-policy.md)
@@ -87,4 +86,5 @@
 ## INTERNAL
 
 * [Scope](internal/scope.md)
+* [Chapter Leads Hub](internal/chapter-leads-hub.md)
 
