@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the 2020 challenge and earn a limited-edition T-shirt. **Be the first to know when Hacktoberfest 2020 launches.**
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. When you submit five quality pull requests to public GitHub repositories, you get a chance to earn a limited-edition T-shirt.
 
 Learn more 👇🏿
 
