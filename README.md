@@ -1,6 +1,6 @@
 # WELCOME
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Open Source Community Africa** is for open-source lovers, enthusiasts, advocates, and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers, and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the **NEXT BILLION CREATORS**.
@@ -97,6 +97,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/oscafrica/documentation/commits?author=BolajiAyodeji" title="Documentation">📖</a></td>
     <td align="center"><a href="https://kodekage.tech"><img src="https://avatars3.githubusercontent.com/u/30195980?v=4" width="100px;" alt=""/><br /><sub><b>Prosper Opara</b></sub></a><br /><a href="https://github.com/oscafrica/documentation/commits?author=kodekage" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://samsongoddy.com"><img src="https://avatars3.githubusercontent.com/u/6048601?v=4" width="100px;" alt=""/><br /><sub><b>Samson Goddy</b></sub></a><br /><a href="https://github.com/oscafrica/documentation/commits?author=samswag" title="Documentation">📖</a></td>
   </tr>
 </table>
 
