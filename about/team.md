@@ -42,6 +42,7 @@ Kogi, 🇳🇬
 
 ## Edidiong Asipko
 
+Contributor  
 Community & Documentation  
 Lagos, 🇳🇬
 
@@ -49,6 +50,7 @@ Lagos, 🇳🇬
 
 ## Princess Egbuna
 
+Contributor  
 Engineering Lead  
 Lagos, 🇳🇬
 
@@ -56,6 +58,7 @@ Lagos, 🇳🇬
 
 ## Josh Ike Chukwuanu
 
+Contributor  
 Engineering  
 Port Harcourt, 🇳🇬
 
@@ -63,6 +66,7 @@ Port Harcourt, 🇳🇬
 
 ## Alabo Briggs
 
+Contributor  
 Engineering  
 Port Harcourt, 🇳🇬
 
@@ -70,6 +74,7 @@ Port Harcourt, 🇳🇬
 
 ## Favour Kelvin
 
+Contributor  
 Engineering  
 Port Harcourt, 🇳🇬
 
@@ -77,6 +82,7 @@ Port Harcourt, 🇳🇬
 
 ## Steve Anthony
 
+Contributor  
 Design  
 Port Harcourt, 🇳🇬
 
@@ -84,6 +90,7 @@ Port Harcourt, 🇳🇬
 
 ## Joshua Ofor
 
+Contributor  
 Design  
 Port Harcourt, 🇳🇬
 
@@ -91,6 +98,7 @@ Port Harcourt, 🇳🇬
 
 ## Jennifer Etegbeke
 
+Contributor  
 Documentation  
 Port Harcourt, 🇳🇬
 
