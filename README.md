@@ -6,7 +6,7 @@
 
 Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution to any of our projects. This documentation is a work in progress, please feel free to contribute and give us feedback.
 
-To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [documentation contribution guidelines](https://github.com/oscafrica/documentation/tree/830c94af25df4506859226cd3c2d6ec1003cfc80/contributing/documentation/guidelines.md).
+To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [documentation contribution guidelines](https://github.com/oscafrica/documentation/blob/master/contributing/documentation/guidelines.md).
 
 If you need more help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord) server.
 
