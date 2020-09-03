@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WELCOME](README.md)
+* [Home](README.md)
 
 ## ABOUT
 
