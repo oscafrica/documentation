@@ -3,7 +3,7 @@
 ## Samson Goddy
 
 Core contributor
-Co-founder <br/>
+Co-founder
 Port Harcourt, 🇳🇬
 
 [Twitter](https://twitter.com/Samson_Goddy), [LinkedIn](https://www.linkedin.com/in/samsongoddy)
