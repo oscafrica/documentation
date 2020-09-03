@@ -8,21 +8,22 @@
 
 ### Do’s
 
-- Refer to the community as "O.S.C.A".
-- Describe the community as "O.S.C.A" stands for "Open Source Community Africa and is a community of Open source advocates and contributors across Africa.".
+* Refer to the community as "O.S.C.A".
+* Describe the community as "O.S.C.A" stands for "Open Source Community Africa and is a community of Open source advocates and contributors across Africa.".
 
 ### Don’t:
 
-- Refer to the community as "Open Source Africa" or "Open Source Community" instead of the acronym "O.S.C.A".
+* Refer to the community as "Open Source Africa" or "Open Source Community" instead of the acronym "O.S.C.A".
 
 ## Chapter naming guideline
 
 ### Do's
 
-- Each local O.S.C.A chapter must be named as "O.S.C.A \(Location\)".
-- Name your chapter with a “Location” that is a city or area \(e.g. London, Lagos\)Refer to your chapter as "OSCA \(Location\)"
+* Each local O.S.C.A chapter must be named as "O.S.C.A \(Location\)".
+* Name your chapter with a “Location” that is a city or area \(e.g. London, Lagos\)Refer to your chapter as "OSCA \(Location\)"
 
 ### Don’t
 
-- Refer to your chapter as a “Open Source Community \(Location\),” "Open Source Africa \(Location\)" or "Open Source \(Location\)."
-- Name your chapter with a “Location” that is a country or continent \(e.g. Ghana, South-Africa, Africa\).
+* Refer to your chapter as a “Open Source Community \(Location\),” "Open Source Africa \(Location\)" or "Open Source \(Location\)."
+* Name your chapter with a “Location” that is a country or continent \(e.g. Ghana, South-Africa, Africa\).
+

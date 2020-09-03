@@ -1,6 +1,6 @@
 # WELCOME
 
-**Open Source Community Africa** is for open source lovers, enthusiasts, advocates and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the **NEXT BILLION CREATORS**.
+**Open Source Community Africa** is for open-source lovers, enthusiasts, advocates, and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers, and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the **NEXT BILLION CREATORS**.
 
 ![](.gitbook/assets/osca-logo.png)
 
@@ -24,7 +24,7 @@ Read our **Terminology** page to know more about all key members of our communit
 
 ## Browsing Categories
 
-Want to know more about Open Source Community Africa Code of Conduct? Read our **Community Code of Conduct** section:
+Want to know more about the Open Source Community Africa Code of Conduct? Read our **Community Code of Conduct** section:
 
 {% page-ref page="about/community-code-of-conduct.md" %}
 
@@ -68,7 +68,7 @@ If you need more help, please contact us at [community@oscafrica.org](mailto:com
 
 ## How can I Contribute
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+To get started, check out the contribution guidelines for [Engineering](contributing/engineering/), [Design](contributing/design/), and [Documentation](contributing/documentation/).
 
 ## Financial Contributors
 
