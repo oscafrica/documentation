@@ -9,7 +9,6 @@
 * [Community Code of Conduct](about/community-code-of-conduct.md)
 * [Guidelines](about/guidelines.md)
 * [FAQs](about/faqs.md)
-* [Organization](about/organization.md)
 * [Values](about/values.md)
 * [Team](about/team.md)
 * [The OSCA Way](about/the-osca-way/README.md)

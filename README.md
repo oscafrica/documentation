@@ -30,8 +30,6 @@ Want to know more about Open Source Community Africa Code of Conduct? Read our *
 
 Want to know more about Open Source Community Africa as an organization? Read our **Organization** section:
 
-{% page-ref page="about/organization.md" %}
-
 Want to know more about Open Source Community Africa community guidelines? Read our **Guidelines** section:
 
 {% page-ref page="about/guidelines.md" %}
