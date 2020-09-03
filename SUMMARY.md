@@ -9,7 +9,6 @@
 * [Community Code of Conduct](about/community-code-of-conduct.md)
 * [Guidelines](about/guidelines.md)
 * [FAQs](about/faqs.md)
-* [Values](about/values.md)
 * [Team](about/team.md)
 * [The OSCA Way](about/the-osca-way/README.md)
   * [Values](about/the-osca-way/values.md)
@@ -21,7 +20,6 @@
 
 ## COMMUNITY
 
-* [Features](community/features.md)
 * [Events](community/events.md)
 * [Newsletter](community/newsletter.md)
 * [Open Source Jobs](community/open-source-jobs.md)
@@ -39,6 +37,7 @@
 * [Google Summer of Code](oss-programs/google-summer-of-code.md)
 * [Google Season of Docs](oss-programs/google-season-of-docs.md)
 * [Outreachy](oss-programs/outreachy.md)
+* [Hacktoberfest](oss-programs/hacktoberfest.md)
 
 ## CONTRIBUTING
 

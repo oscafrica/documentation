@@ -40,8 +40,6 @@ Got a question or inquiry? Read our **FAQs** section:
 
 Want to know more about Open Source Community Africa values? Read our **Values** section:
 
-{% page-ref page="about/values.md" %}
-
 Want to know more about Open Source Community Africa team? Read our **Team** section:
 
 {% page-ref page="about/team.md" %}
