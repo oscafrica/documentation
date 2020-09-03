@@ -22,6 +22,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "samswag",
+      "name": "Samson Goddy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6048601?v=4",
+      "profile": "http://samsongoddy.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
