@@ -49,7 +49,7 @@
   * [Contribution Guidelines](contributing/design/design-contribution-guidelines.md)
   * [Style Guide](contributing/design/style-guide.md)
 * [Documentation](contributing/documentation/README.md)
-  * [Contribution Guidelines](contributing/documentation/documentation-contribution-guidelines.md)
+  * [Contribution Guidelines](contributing/documentation/guidelines.md)
   * [Style Guide](contributing/documentation/style-guide.md)
   * [Useful Resources](contributing/documentation/useful-resources.md)
 * [Issue Labels](contributing/issue-labels.md)
