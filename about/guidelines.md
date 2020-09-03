@@ -20,7 +20,7 @@
 ### Do's
 
 * Each local O.S.C.A chapter must be named as "O.S.C.A \(Location\)".
-* Name your chapter with a “Location” that is a city or area \(e.g. London, Lagos\)Refer to your chapter as "OSCA \(Location\)"
+* Name your chapter with a “Location” that is a city \(e.g. Lagos, Port Harcourt\)Refer to your chapter as "OSCA \(Location\)"
 
 ### Don’t
 
