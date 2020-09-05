@@ -34,7 +34,7 @@ You can start by looking through the `good first issues` label. Also, you might 
 
 **Yes! 💪🏽 seen what you’d love to help with?**
 
-Just start, you don’t need approval from anyone. Be sure that when you start, change issue label to `design-in progress`. Once you have something ready for review use the `design-ready` label, someone will attend to you ☺️.  
+Just start, you don’t need approval from anyone. Once you have something ready for review drop a comment and someone will attend to you ☺️.  
 
 We can’t wait to receive your contributions! :)
 
