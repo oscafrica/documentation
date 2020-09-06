@@ -51,7 +51,7 @@ TextBox.defaultProps = {
 
 ### Styling
 
-This project uses the [BEM](https://en.bem.info/) Methodology with camelCase style. Read the start guide [here](https://en.bem.info/methodology/quick-start/)
+This project uses the [BEM](https://en.bem.info/) Methodology with a camelCase style. Read the start guide [here](https://en.bem.info/methodology/quick-start/)
 
 > BEM \(Block, Element, Modifier\) is a component-based approach to web development. The idea behind it is to divide the user interface into independent blocks
 

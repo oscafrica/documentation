@@ -33,7 +33,7 @@ All of our active repositories can be found on our [GitHub O.S.C.A\`organization
 * [ ] confirm if what you want to change is already present in any other branches or forks,
 * [ ] make and test your changes,
 * [ ] if your changes add a new feature or will affect users; update the README.md file
-* [ ] make a branch, push your commits, and a pull request, see [Workflow](contribute.md##workflow) below.
+* [ ] make a branch, push your commits, and a pull request, see [Workflow](guidelines.md##workflow) below.
 
 #### Checklist - maintainer
 
@@ -202,7 +202,7 @@ The Goal\(s\) for every review is to;
 #### Checklist
 
 * [ ] does the change have consensus of the community, see also our [code of conduct](https://github.com/oscafrica/documentation/tree/167834663f1062d3849467800467c77384e697de/src/src/OSCA%20Code%20of%20Conduct.md) \(if a reviewer is in doubt, seek opinions by @mentioning people\),
-* [ ] does the commit message explain the summary, problem, and solution, so that it can be used in future analysis, see also [making commits](contribute.md#making-commits) \(if a reviewer can fix it by squash or manual rebase, do so\),
+* [ ] does the commit message explain the summary, problem, and solution, so that it can be used in future analysis, see also [making commits](guidelines.md#making-commits) \(if a reviewer can fix it by squash or manual rebase, do so\),
 * [ ] does the commit message reference any issue \(if a reviewer can fix it by squash or manual rebase, do so\),
 * [ ] are the number of commits excessive for future analysis, \(a reviewer may squash or rebase if necessary\),
 * [ ] is the changed code consistent in style with the existing code

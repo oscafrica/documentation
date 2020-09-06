@@ -42,10 +42,10 @@
 ## CONTRIBUTING
 
 * [Engineering](contributing/engineering/README.md)
-  * [Contribution Guidelines](contributing/engineering/contribute.md)
+  * [Contribution Guidelines](contributing/engineering/guidelines.md)
   * [Conventions](contributing/engineering/conventions.md)
 * [Design](contributing/design/README.md)
-  * [Contribution Guidelines](contributing/design/design-contribution-guidelines.md)
+  * [Contribution Guidelines](contributing/design/guidelines.md)
   * [Style Guide](contributing/design/style-guide.md)
 * [Documentation](contributing/documentation/README.md)
   * [Contribution Guidelines](contributing/documentation/guidelines.md)
