@@ -2,8 +2,6 @@
 description: Everything Design related in OSCA
 ---
 
-# Design
-
 Hey there 👋🏽
 Welcome to OSCA design! We always need and welcome more contributors. 
 
