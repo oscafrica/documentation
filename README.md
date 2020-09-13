@@ -16,39 +16,39 @@ If you need more help, please contact us at [community@oscafrica.org](mailto:com
 
 Want to know more about Open Source Community Africa? Read our **Introduction** section:
 
-{% page-ref page="about/introduction.md" %}
+[Introduction section](about/introduction.md)
 
 ## Terminologies
 
 Read our **Terminology** page to know more about all key members of our community:
 
-{% page-ref page="about/terminology.md" %}
+[Terminologies page](about/terminology.md)
 
 ## Browsing Categories
 
 Want to know more about the Open Source Community Africa Code of Conduct? Read our **Community Code of Conduct** section:
 
-{% page-ref page="about/community-code-of-conduct.md" %}
+[Community code of conduct](about/community-code-of-conduct.md)
 
 Want to know more about Open Source Community Africa as an organization? Read our **Organization** section:
 
 Want to know more about Open Source Community Africa community guidelines? Read our **Guidelines** section:
 
-{% page-ref page="about/guidelines.md" %}
+[Guideline Section](about/guidelines.md)
 
 Got a question or inquiry? Read our **FAQs** section:
 
-{% page-ref page="about/faqs.md" %}
+[FAQs section](about/faqs.md)
 
 Want to know more about Open Source Community Africa values? Read our **Values** section:
 
 Want to know more about Open Source Community Africa team? Read our **Team** section:
 
-{% page-ref page="about/team.md" %}
+[Teams secton](about/team.md)
 
 Want to know more about Open Source Community Africa processes? Read our **The OSCA Way** section:
 
-{% page-ref page="about/the-osca-way/" %}
+[The OSCA way](about/the-osca-way/)
 
 Want to know more about Open Source Community Africa community? Read our **COMMUNITY** section:
 
