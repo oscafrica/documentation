@@ -1,6 +1,6 @@
 # Home
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](./#contributors-) 
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](./#contributors-)
 
 **Open Source Community Africa** is for open-source lovers, enthusiasts, advocates, and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers, and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the **NEXT BILLION CREATORS**.
 

@@ -27,10 +27,9 @@
 * [Roadmap](community/roadmap.md)
 * [Chapters](community/chapters/README.md)
   * [Chapters](community/chapters/chapters.md)
-  * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
   * [Chapter Leads](community/chapters/chapter-leads.md)
-  * [Chapter Leads OnBoarding](community/chapters/chapter-leads-onboarding.md)
-  * [Global Chapters Events](community/chapters/global-chapters-events.md)
+  * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
+  * [Chapter Leads OnBoarding Guide](community/chapters/chapter-leads-onboarding-guide.md)
 
 ## OSS Programs
 
