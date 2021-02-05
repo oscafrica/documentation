@@ -16,51 +16,101 @@ If you need more help, please contact us at [community@oscafrica.org](mailto:com
 
 Want to know more about Open Source Community Africa? Read our **Introduction** section:
 
-{% page-ref page="about/introduction.md" %}
+ * https://github.com/oscafrica/documentation/blob/master/about/introduction.md
 
 ## Terminologies
 
 Read our **Terminology** page to know more about all key members of our community:
 
-{% page-ref page="about/terminology.md" %}
+ * https://github.com/oscafrica/documentation/blob/master/about/terminology.md
 
 ## Browsing Categories
 
 Want to know more about the Open Source Community Africa Code of Conduct? Read our **Community Code of Conduct** section:
 
-{% page-ref page="about/community-code-of-conduct.md" %}
-
-Want to know more about Open Source Community Africa as an organization? Read our **Organization** section:
+ * https://github.com/oscafrica/documentation/blob/master/about/community-code-of-conduct.md
 
 Want to know more about Open Source Community Africa community guidelines? Read our **Guidelines** section:
 
-{% page-ref page="about/guidelines.md" %}
+ * https://github.com/oscafrica/documentation/blob/master/about/guidelines.md
 
 Got a question or inquiry? Read our **FAQs** section:
 
-{% page-ref page="about/faqs.md" %}
+ * https://github.com/oscafrica/documentation/blob/master/about/faqs.md
 
 Want to know more about Open Source Community Africa values? Read our **Values** section:
 
+ * https://github.com/oscafrica/documentation/blob/master/about/the-osca-way/values.md
+ 
 Want to know more about Open Source Community Africa team? Read our **Team** section:
 
-{% page-ref page="about/team.md" %}
-
+ * https://github.com/oscafrica/documentation/blob/master/about/team.md
+ 
 Want to know more about Open Source Community Africa processes? Read our **The OSCA Way** section:
 
-{% page-ref page="about/the-osca-way/" %}
+ * https://github.com/oscafrica/documentation/blob/master/about/the-osca-way/README.md
 
 Want to know more about Open Source Community Africa community? Read our **COMMUNITY** section:
+##### The Commuunity Section Includes :
 
+ * [Events](https://github.com/oscafrica/documentation/blob/master/community/events.md)
+ * [Newsletter](https://github.com/oscafrica/documentation/blob/master/community/newsletter.md)
+ * [Open Source Jobs](https://github.com/oscafrica/documentation/blob/master/community/open-source-jobs.md)
+ * [Open Source Events](https://github.com/oscafrica/documentation/blob/master/community/open-source-events.md)
+ * [Roadmap](https://github.com/oscafrica/documentation/blob/master/community/roadmap.md)
+ * [Chapters](https://github.com/oscafrica/documentation/blob/master/community/chapters/README.md)
+    - [Chapter Leads](https://github.com/oscafrica/documentation/blob/master/community/chapters/chapter-leads.md)
+    - [Chapter Leads Application](https://github.com/oscafrica/documentation/blob/master/community/chapters/chapter-leads-application.md)
+    - [Chapter Lead Unboarding Guide](https://github.com/oscafrica/documentation/blob/master/community/chapters/chapter-leads-onboarding-guide.md)
+    
 Want to know more about Open Source Community Africa partnerships and external OSS programs? Read our **OSS Programs** section:
+##### OSS Programs Section Includes:
 
+  - [Google Summer Codes](https://github.com/oscafrica/documentation/blob/master/oss-programs/google-summer-of-code.md)
+  - [Google Season of Docs](https://github.com/oscafrica/documentation/blob/master/oss-programs/google-season-of-docs.md)
+  - [Outreachy](https://github.com/oscafrica/documentation/blob/master/oss-programs/outreachy.md)
+  - [Hacktoberfest](https://github.com/oscafrica/documentation/blob/master/oss-programs/hacktoberfest.md)
+  
 Want to know more about contributing to Open Source Community Africa? Read our **CONTRIBUTING** section:
+##### Contributing Section Includes:
 
-Want to know more about Open Source Community Africa projects? Read our **PROJECTS** section:
+* [Engineering](contributing/engineering/README.md)
+  * [Contribution Guidelines](contributing/engineering/guidelines.md)
+  * [Conventions](contributing/engineering/conventions.md)
+* [Design](contributing/design/README.md)
+  * [Contribution Guidelines](contributing/design/guidelines.md)
+  * [Style Guide](contributing/design/style-guide.md)
+* [Documentation](contributing/documentation/README.md)
+  * [Contribution Guidelines](contributing/documentation/guidelines.md)
+  * [Style Guide](contributing/documentation/style-guide.md)
+  * [Useful Resources](contributing/documentation/useful-resources.md)
+* [Issue Labels](contributing/issue-labels.md)
+
+Want to know more about Open Source Community Africa projects? Read our PROJECTS section:
+##### Projects Section Includes:
+
+* [OSCA Twitter Bot](projects/osca-twitter-bot.md)
+* [OSCA Discord Bot](projects/osca-discord-bot.md)
+* [OSF Website](projects/osf-website.md)
+
 
 Want to know more about Open Source Community Africa finance? Read our **FINANCE** section:
+##### Finance Section Includes:
+
+* [Open Collective](finance/open-collective.md)
+* [Tiers & Goals](finance/tiers-and-goals.md)
+* [Transparent Budget](finance/transparent-budget.md)
+* [Expense Policy](finance/expense-policy.md)
+* [Approving Expenses](finance/approving-expenses.md)
+* [Events](finance/events.md)
+
 
 Want to know more about how to submit expenses to Open Source Community Africa? Read our **EXPENSES & GETTING PAID** section:
+##### Expenses & Getting Paid Section Includes:
+
+* [Submitting Expenses](expenses-and-getting-paid/submitting-expenses.md)
+* [Expense Comments](expenses-and-getting-paid/expense-comments.md)
+* [Edit an Expense](expenses-and-getting-paid/edit-an-expense.md)
 
 ## Contact Us
 
