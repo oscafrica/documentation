@@ -10,6 +10,10 @@ Our goal is to increase the rate of credible contributions by African software d
 
 As an OSCA chapter lead, you represent a global network of open-source enthusiasts and you are responsible for growing and supporting vibrant local OSCA communities in Africa.
 
+### What does it mean to be an OSCA Chapter Co-Lead? 
+
+As an OSCA chapter co-lead, you represent a global network of open-source enthusiasts and you are responsible for growing and supporting vibrant local OSCA communities in Africa. You will work hand-in-hand with another co-lead to grow and support a vibrant OSCA community in your city.
+
 ### Code of Conduct
 
 > Alone we can do so little, together we can do so much.
@@ -60,15 +64,11 @@ As an OSCA lead, you represent us and our value and we implore you to use any ha
 
 ### Design Template
 
-As an OSCA lead, you are expected to use this design template to guide every event you organize.
+As an OSCA lead, you are expected to use the Chapters Program Design Guide. Kindly download the guide below:
 
-Color code: 
+{% file src="../../.gitbook/assets/osca-chapters-design-guide.pdf" caption="OSCA Chapters Design Guide" %}
 
-Logo:
-
-Font: 
-
-Design Samples:
+Learn more about Design at Open Source Community Africa below:
 
 {% page-ref page="../../contributing/design/" %}
 
