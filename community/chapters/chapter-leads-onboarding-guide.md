@@ -40,7 +40,7 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 #### Host events.
 
-* Plan a physical meet up at least once in three months to avoid being blacklisted. 
+* Plan a physical meet-up at least once in three months to avoid being blacklisted. 
 * Invite local or global technical/non-technical speakers with experience in the covered topics.
 * Communicate and partner with local communities, tech hubs, and influencers.
 
@@ -68,7 +68,7 @@ As an OSCA lead, you are expected to use the Chapters Program Design Guide. Kind
 
 {% file src="../../.gitbook/assets/osca-chapters-design-guide.pdf" caption="OSCA Chapters Design Guide" %}
 
-Learn more about Design at Open Source Community Africa below:
+You can also learn more about Design at Open Source Community Africa below:
 
 {% page-ref page="../../contributing/design/" %}
 
