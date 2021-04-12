@@ -22,14 +22,13 @@
 
 * [Events](community/events.md)
 * [Newsletter](community/newsletter.md)
-* [Open Source Jobs](community/open-source-jobs.md)
-* [Open Source Events](community/open-source-events.md)
-* [Roadmap](community/roadmap.md)
 * [Chapters](community/chapters/README.md)
   * [Chapters](community/chapters/chapters.md)
   * [Chapter Leads](community/chapters/chapter-leads.md)
   * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
   * [Chapter Leads OnBoarding Guide](community/chapters/chapter-leads-onboarding-guide.md)
+* [OSS Jobs](community/open-source-jobs.md)
+* [Roadmap](community/roadmap.md)
 
 ## OSS Programs
 

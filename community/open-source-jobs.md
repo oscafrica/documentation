@@ -1,2 +1,2 @@
-# Open Source Jobs
+# OSS Jobs
 

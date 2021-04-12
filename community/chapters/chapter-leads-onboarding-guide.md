@@ -8,17 +8,17 @@ Our goal is to increase the rate of credible contributions by African software d
 
 ### What does it mean to be an OSCA Chapter Lead? 
 
-As an OSCA chapter lead, you represent a global network of open-source enthusiasts and you are responsible for growing and supporting vibrant local OSCA communities in Africa.
+As an OSCA chapter lead, you represent a global network of open-source enthusiasts, and you are responsible for growing and supporting vibrant local OSCA communities in Africa.
 
 ### What does it mean to be an OSCA Chapter Co-Lead? 
 
-As an OSCA chapter co-lead, you represent a global network of open-source enthusiasts and you are responsible for growing and supporting vibrant local OSCA communities in Africa. You will work hand-in-hand with another co-lead to grow and support a vibrant OSCA community in your city.
+As an OSCA chapter co-lead, you represent a global network of open-source enthusiasts, and you are responsible for growing and supporting vibrant local OSCA communities in Africa. You will work hand-in-hand with another co-lead to grow and support a vibrant OSCA community in your city.
 
 ### Code of Conduct
 
 > Alone we can do so little, together we can do so much.
 
-Check out our community code of conduct below 👇 
+Check out our community code of conduct below 👇. 
 
 {% page-ref page="../../about/community-code-of-conduct.md" %}
 
@@ -30,7 +30,7 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 * Evangelize the OSCA program within your local tech community.
 * Share updates about your chapter through your different social media channels \(LinkedIn, Twitter, Facebook, Whatsapp, etc.\)
-* Act as a mentor to the community; connecting people, and identifying partnerships.
+* Act as a mentor to the community, connecting people and identifying partnerships.
 
 #### Lead an engaged Discord communication Channel for your chapter.
 
@@ -52,10 +52,10 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 ### Social Media
 
-As an OSCA lead, you represent us and our value and we implore you to use any hate speech on social media. Find below guides to follow via interacting with members of your community:
+As an OSCA lead, you represent us and our value, and we implore you to use any hate speech on social media. Find below guides to follow via interacting with members of your community:
 
 1. Create a Twitter account for your chapter and customize the account.
-2. Ensure that the account name always starts with OSCA followed by the chapter name \(e.g OSCA Lagos\), and the handle should be OSCA \(in lowercase\) followed by the chapter name \(e.g @oscalagos or @osca-lagos\).
+2. Ensure that the account name always starts with OSCA followed by the chapter name \(e.g., OSCA Nairobi\), and the handle should be OSCA \(in lowercase\) followed by the chapter name \(e.g., @oscanairobi or @osca\_nairobi\).
 3. Upon creating a social account for your chapter, kindly copy, edit and use this for your chapter’s bio: "_Open Source Community Africa \[insert chapter name\] is a chapter of_[ __](https://twitter.com/SheCodeAfrica)\_\_[_@oscafrica_](https://twitter.com/oscafrica) _focused on increasing the rate of credible contributions by Africans to open source projects both locally and globally in \[Chapter’s city, Country\]_."
 4. Always tag @oscafrica when creating awareness about your events or initiatives.
 5. Use the hashtags like **\#OSCAUyo**. That is, \#OSCA{City of your chapter}
