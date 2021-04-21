@@ -52,7 +52,7 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 ### Social Media
 
-As an OSCA lead, you represent us and our value, and we implore you to use any hate speech on social media. Find below guides to follow via interacting with members of your community:
+As an OSCA lead, you represent us and our value, and we implore you not to use any hate speech on social media. Find below guides to follow via interacting with members of your community:
 
 1. Create a Twitter account for your chapter and customize the account.
 2. Ensure that the account name always starts with OSCA followed by the chapter name \(e.g., OSCA Nairobi\), and the handle should be OSCA \(in lowercase\) followed by the chapter name \(e.g., @oscanairobi or @osca\_nairobi\).
