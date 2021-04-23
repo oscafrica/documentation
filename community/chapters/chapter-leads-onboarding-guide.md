@@ -56,7 +56,7 @@ As an OSCA lead, you represent us and our value, and we implore you to use any h
 
 1. Create a Twitter account for your chapter and customize the account.
 2. Ensure that the account name always starts with OSCA followed by the chapter name \(e.g., OSCA Nairobi\), and the handle should be OSCA \(in lowercase\) followed by the chapter name \(e.g., @oscanairobi or @osca\_nairobi\).
-3. Upon creating a social account for your chapter, kindly copy, edit and use this for your chapter’s bio: "_Open Source Community Africa \[insert chapter name\] is a chapter of_[ __](https://twitter.com/SheCodeAfrica)\_\_[_@oscafrica_](https://twitter.com/oscafrica) _focused on increasing the rate of credible contributions by Africans to open source projects both locally and globally in \[Chapter’s city, Country\]_."
+3. Upon creating a social account for your chapter, kindly copy, edit and use this for your chapter’s bio: _"A budding @oscafrica community of open-source advocates and contributors in {Chapter’s city, State, Country Flag}."_
 4. Always tag @oscafrica when creating awareness about your events or initiatives.
 5. Use the hashtags like **\#OSCAUyo**. That is, \#OSCA{City of your chapter}
 6. When giving out information, ensure that it is from a reliable source.
