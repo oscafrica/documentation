@@ -40,7 +40,7 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 #### Host events.
 
-* Plan a physical meet-up at least once in three months to avoid being blacklisted. 
+* Plan a physical meet-up **at least once in three \(3\) months** to avoid being blacklisted. 
 * Invite local or global technical/non-technical speakers with experience in the covered topics.
 * Communicate and partner with local communities, tech hubs, and influencers.
 
