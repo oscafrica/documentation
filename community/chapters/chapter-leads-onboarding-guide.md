@@ -54,13 +54,14 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 As an OSCA lead, you represent us and our value, and we implore you to **not** use any hate speech on social media. Find below guides to follow via interacting with members of your community:
 
-1. Create a Twitter account for your chapter and customize the account.
-2. Ensure that the account name always starts with OSCA followed by the chapter name \(e.g., OSCA Nairobi\), and the handle should be OSCA \(in lowercase\) followed by the chapter name \(e.g., @oscanairobi or @osca\_nairobi\).
-3. Upon creating a social account for your chapter, kindly copy, edit and use this for your chapter’s bio: _"A budding @oscafrica community of open-source advocates and contributors in {Chapter’s city, State, Country Flag}."_
-4. Always tag @oscafrica when creating awareness about your events or initiatives.
-5. Use the hashtags like **\#OSCAUyo**. That is, \#OSCA{City of your chapter}
-6. When giving out information, ensure that it is from a reliable source.
-7. Do not post negative information about OSCA or its affiliates or partners.
+1. Create a [Gmail address](https://accounts.google.com/SignUp) for your chapter (e.g., oscakampala@gmail.com). You will use this email to sign up for other services and to send emails to members of your community/event attendees.
+2. Create a [Twitter account](https://twitter.com/i/flow/signup) for your chapter and customize the account.
+3. Ensure that the account name always starts with OSCA followed by the chapter name \(e.g., OSCA Nairobi\), and the handle should be OSCA \(in lowercase\) followed by the chapter name \(e.g., @oscanairobi or @osca\_nairobi\).
+4. Upon creating a social account for your chapter, kindly copy, edit and use this for your chapter’s bio: _"A budding @oscafrica community of open-source advocates and contributors in {Chapter’s city, State, Country Flag}."_
+5. Always tag @oscafrica when creating awareness about your events or initiatives.
+6. Use the hashtags like **\#OSCAUyo**. That is, \#OSCA{City of your chapter}
+7. When giving out information, ensure that it is from a reliable source.
+8. Do not post negative information about OSCA or its affiliates or partners.
 
 ### Design Template
 
