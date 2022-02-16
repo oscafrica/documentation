@@ -27,6 +27,7 @@
   * [Chapter Leads](community/chapters/chapter-leads.md)
   * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
   * [Chapter Leads OnBoarding Guide](community/chapters/chapter-leads-onboarding-guide.md)
+  * [Chapters Design Guide](community/chapters/chapters-design-guide.md)
 * [OSS Jobs](community/open-source-jobs.md)
 * [Roadmap](community/roadmap.md)
 
@@ -81,4 +82,3 @@
 
 * [Scope](internal/scope.md)
 * [Chapter Leads Hub](internal/chapter-leads-hub.md)
-
