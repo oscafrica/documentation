@@ -23,8 +23,6 @@
 * [Events](community/events.md)
 * [Newsletter](community/newsletter.md)
 * [Chapters](community/chapters/README.md)
-  * [Chapters](community/chapters/chapters.md)
-  * [Chapter Leads](community/chapters/chapter-leads.md)
   * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
   * [Chapter Leads OnBoarding Guide](community/chapters/chapter-leads-onboarding-guide.md)
   * [Chapters Design Guide](community/chapters/chapters-design-guide.md)
