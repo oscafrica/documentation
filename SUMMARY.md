@@ -30,11 +30,9 @@
 
 ## FINANCE
 
-* [Open Collective](finance/open-collective.md)
-* [Tiers & Goals](finance/tiers-and-goals.md)
-* [Transparent Budget](finance/transparent-budget.md)
+* [Sponsorship Tiers](finance/tiers-and-goals.md)
+* [Expense Policy](finance/expense-policy.md)
 * [Expenses & Getting Paid](finance/expenses-and-getting-paid/README.md)
-  * [Expense Policy](finance/expenses-and-getting-paid/expense-policy.md)
   * [Submitting Expenses](finance/expenses-and-getting-paid/submitting-expenses.md)
   * [Approving Expenses](finance/expenses-and-getting-paid/approving-expenses.md)
   * [Editing Expenses](finance/expenses-and-getting-paid/edit-an-expense.md)
