@@ -24,6 +24,7 @@
   * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
   * [Chapter Leads OnBoarding Guide](community/chapters/chapter-leads-onboarding-guide.md)
   * [Chapters Design Guide](community/chapters/chapters-design-guide.md)
+  * [Chapter Leads Hub](community/chapters/chapter-leads-hub.md)
 * [OSS Jobs](community/open-source-jobs.md)
 * [Roadmap](community/roadmap.md)
 
@@ -37,6 +38,7 @@
   * [Submitting Expenses](finance/expenses-and-getting-paid/submitting-expenses.md)
   * [Approving Expenses](finance/expenses-and-getting-paid/approving-expenses.md)
   * [Editing Expenses](finance/expenses-and-getting-paid/edit-an-expense.md)
+  * [Core Contributors Expense Guidelines](finance/expenses-and-getting-paid/scope.md)
 
 ## OSS PROGRAMS
 
@@ -72,8 +74,3 @@
 
 * [Individuals](financial-contributors/individuals.md)
 * [Organizations](financial-contributors/organizations.md)
-
-## INTERNAL
-
-* [Scope](internal/scope.md)
-* [Chapter Leads Hub](internal/chapter-leads-hub.md)

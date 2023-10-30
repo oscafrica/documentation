@@ -6,9 +6,11 @@
 
 ![](<.gitbook/assets/OSCA Logo\_Colored.png>)
 
-Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution to any of our projects. This documentation is a work in progress, please feel free to contribute and give us feedback.
+Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution to any of our projects. To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, reunsure[ocumentation contribution guidelines](https://github.com/oscafrica/documentation/blob/master/contributing/documentation/guidelines.md).
 
-To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [documentation contribution guidelines](https://github.com/oscafrica/documentation/blob/master/contributing/documentation/guidelines.md). If you need more help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord) server.
+> This documentation is a work in progress; please be patient with us as we slowly fill up empty pages and add a contribution guideline. Feel free to give us feedback for now. Thank you.
+
+If you need any help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord) server. Cheers!
 
 ## Get Started
 
