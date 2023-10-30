@@ -1,24 +1,24 @@
 # Home
 
-<div align="center">
+![](.gitbook/assets/NXTBC.png)
 
-![](<.gitbook/assets/NXTBC.png>)
+[![All Contributors](https://img.shields.io/badge/all\_contributors-6-orange.svg?style=flat-square)](./#contributors-) [![Financial Contributors on Open Collective](https://opencollective.com/osca/all/badge.svg?label=financial+contributors)](https://opencollective.com/osca) [![OpenCollective](https://opencollective.com/osca/backers/badge.svg)](./#backers) [![OpenCollective](https://opencollective.com/osca/sponsors/badge.svg)](./#sponsors)
 
-[![All Contributors](https://img.shields.io/badge/all\_contributors-6-orange.svg?style=flat-square)](./#contributors-) [![Financial Contributors on Open Collective](https://opencollective.com/osca/all/badge.svg?label=financial+contributors)](https://opencollective.com/osca) [![OpenCollective](https://opencollective.com/osca/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/osca/sponsors/badge.svg)](#sponsors)
-
-</div>
-
----
+***
 
 **Open Source Community Africa** is for open-source lovers, enthusiasts, advocates, and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers, and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the **NEXT BILLION CREATORS**.
 
-![](<.gitbook/assets/OSCA Logo\_Colored.png>)
+Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution to any of our projects. To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're unsure how to do that, kindly read the [documentation contribution guidelines](https://docs.oscafrica.org/\~/changes/xMDCL5DzAhhQl0q8bjTh/contributing/documentation/guidelines).
 
-Welcome to our documentation guide for members looking to know more about **Open Source Community Africa** and also make a contribution to any of our projects. To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, reunsure[ocumentation contribution guidelines](https://github.com/oscafrica/documentation/blob/master/contributing/documentation/guidelines.md).
-
-> This documentation is a work in progress; please be patient with us as we slowly fill up empty pages and add a contribution guideline. Feel free to give us feedback for now. Thank you.
+> PS: This documentation is a work in progress; please be patient with us as we slowly fill up empty pages and add a contribution guideline. Feel free to give us feedback for now. Thank you.
 
 If you need any help, please contact us at [community@oscafrica.org](mailto:community@oscafrica.org) or join the `#documentation` channel on our [Discord](https://bit.ly/osca-discord) server. Cheers!
+
+<div data-full-width="true">
+
+<img src=".gitbook/assets/OSCA Logo_Colored.png" alt="" width="256">
+
+</div>
 
 ## Get Started
 
