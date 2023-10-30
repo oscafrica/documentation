@@ -8,15 +8,15 @@ description: Introductory guide to the OSCA Chapters Program for new leads and c
 
 Our goal is to increase the rate of credible contributions by African software developers, designers, writers, and everyone involved in the sphere of technology to open source projects both locally and globally, changing Africans' perception from just the billion users to the **NEXT BILLION CREATORS**.
 
-![](../../.gitbook/assets/nxtbc.png)
+![](../../.gitbook/assets/NXTBC.png)
 
 ![](../../.gitbook/assets/52054757972\_a14c3175e6\_o.jpg)
 
-### What does it mean to be an OSCA Chapter Lead?&#x20;
+### What does it mean to be an OSCA Chapter Lead?
 
 As an OSCA chapter lead, you represent a global network of open-source enthusiasts, and you are responsible for growing and supporting a vibrant local OSCA community in Africa.
 
-### What does it mean to be an OSCA Chapter Co-Lead?&#x20;
+### What does it mean to be an OSCA Chapter Co-Lead?
 
 As an OSCA chapter co-lead, you represent a global network of open-source enthusiasts, and you are responsible for growing and supporting a vibrant local OSCA community in Africa alongside another co-lead(s).
 
@@ -24,7 +24,7 @@ As an OSCA chapter co-lead, you represent a global network of open-source enthus
 
 > Alone we can do so little, together we can do so much.
 
-Kindly check out our community code of conduct below 👇🏾.&#x20;
+Kindly check out our community code of conduct below 👇🏾.
 
 {% content-ref url="../../about/community-code-of-conduct.md" %}
 [community-code-of-conduct.md](../../about/community-code-of-conduct.md)
@@ -48,7 +48,7 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 #### 3️⃣ Host events and activities.
 
-* Plan a physical or virtual event **at least once in three (3) months** to avoid being blacklisted.&#x20;
+* Plan a physical or virtual event **at least once in three (3) months** to avoid being blacklisted.
 * Invite local or global technical/non-technical speakers with experience in the covered topics.
 * Communicate and partner with local communities, tech hubs, and influencers.
 * Host any activity (meetup, webinar, workshop, hackathon, project, etc.) that supports your community's open-source education needs.
@@ -57,7 +57,7 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 * Participate in the monthly community calls with your community manager.
 * If you need to take any action and you're unsure if it's acceptable, please ensure to run the idea through your community manager for approval before proceeding.
-* Coordinate with the Open Source Community Africa for support in planning your event (swag, promotion, etc.).&#x20;
+* Coordinate with the Open Source Community Africa for support in planning your event (swag, promotion, etc.).
 * Submit event reports after every meetup/event you organize for your local community.
 
 ### Social Media
@@ -116,6 +116,4 @@ At Open Source Community Africa, we are transparent and manage all processes of 
 
 You will learn more about submitting expenses in the private Chapter Leads Hub.
 
-
-
-Thank you for coming this far. We wish you all the best as you begin this new journey. Cheers! 🧡\
+Thank you for coming this far. We wish you all the best as you begin this new journey. Cheers! 🧡\\

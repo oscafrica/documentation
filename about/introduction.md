@@ -1,6 +1,3 @@
 # Introduction
 
-
-
-![](../.gitbook/assets/nxtbc.png)
-
+![](../.gitbook/assets/NXTBC.png)
