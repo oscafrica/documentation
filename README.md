@@ -1,6 +1,14 @@
 # Home
 
-[![All Contributors](https://img.shields.io/badge/all\_contributors-6-orange.svg?style=flat-square)](./#contributors-)
+<div align="center">
+
+![](<.gitbook/assets/NXTBC.png>)
+
+[![All Contributors](https://img.shields.io/badge/all\_contributors-6-orange.svg?style=flat-square)](./#contributors-) [![Financial Contributors on Open Collective](https://opencollective.com/osca/all/badge.svg?label=financial+contributors)](https://opencollective.com/osca) [![OpenCollective](https://opencollective.com/osca/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/osca/sponsors/badge.svg)](#sponsors)
+
+</div>
+
+---
 
 **Open Source Community Africa** is for open-source lovers, enthusiasts, advocates, and experts within and across Africa with the sole aim of increasing the rate of credible contributions by African software developers, designers, writers, and everyone involved in the sphere of technology to open source projects both locally and globally, changing the perception of Africans from just the billion users to the **NEXT BILLION CREATORS**.
 
