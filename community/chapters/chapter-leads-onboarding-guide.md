@@ -155,6 +155,6 @@ As an OSCA lead, you represent us and our values, and we implore you **not** to 
 7. When giving out information, ensure that it is from a reliable source.
 8. Do not post negative information about OSCA or its affiliates or partners.
 
-
+***
 
 Thank you for coming this far. We wish you all the best as you begin this new journey. Cheers! 🧡
