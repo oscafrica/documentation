@@ -18,13 +18,11 @@
 
 ## COMMUNITY
 
-* [Events](community/events.md)
-* [Newsletter](community/newsletter.md)
+* [Community Discord Server](https://oscafrica.org/discord)
 * [Chapters](community/chapters/README.md)
   * [Chapter Leads Application](community/chapters/chapter-leads-application.md)
   * [Chapter Leads OnBoarding Guide](community/chapters/chapter-leads-onboarding-guide.md)
   * [Chapters Design Guide](community/chapters/chapters-design-guide.md)
-  * [Chapter Leads Hub](community/chapters/chapter-leads-hub.md)
 * [OSS Jobs](community/open-source-jobs.md)
 * [Roadmap](community/roadmap.md)
 
