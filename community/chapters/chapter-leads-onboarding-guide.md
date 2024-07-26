@@ -16,32 +16,13 @@ As an OSCA Chapter Lead, you represent a global network of open-source enthusias
 
 As an OSCA chapter lead in the program, we expect you to:
 
+* Abide by our [community code of conduct](https://docs.oscafrica.org/about/community-code-of-conduct).
 * Lead an engaged communication channel for your chapter.
-* Host events (offline or online) that align with OSCA’s goal.&#x20;
+* Host events (offline or online) that align with OSCA’s goal.
 * Teach and support your community members to contribute to and build open-source projects that solve social problems or any problem around them.
 * Measure and report all activities you organize and engage in.
 * Promote Open Source Community Africa in your chapter.
 * Share updates, feedback, event details, and more as may be requested by the Community Managers to keep them abreast of the amazing work you are doing in your chapter.
-
-### Code of Conduct
-
-Kindly check out our community code of conduct below.
-
-{% content-ref url="../../about/community-code-of-conduct.md" %}
-[community-code-of-conduct.md](../../about/community-code-of-conduct.md)
-{% endcontent-ref %}
-
-### Chapter Leads Hub
-
-As an OSCA Chapter Lead, you will use the private [Chapter Leads Hub](https://github.com/oscafrica/chapter-leads-hub) GitHub repository for:
-
-* Discussing and planning chapter activities.
-* Requesting help, support, or materials from Open Source Community Africa.
-* Tracking and talking about the activities you are organizing.
-* Exploring the design assets, expenses guide, and sponsorship guide.
-* Anything else a Chapter Lead needs to be successful.
-
-Kindly read all the guides (design, sponsorship, expenses, and budget) and other resources, as outlined in the README.
 
 ### Recommended Practices
 
@@ -126,6 +107,18 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 * Submit event reports after every meetup/event you organize for your local community.
 
 </details>
+
+### Chapter Leads Hub
+
+As an OSCA Chapter Lead, you will use the private [Chapter Leads Hub](https://github.com/oscafrica/chapter-leads-hub) GitHub repository for:
+
+* Discussing and planning chapter activities.
+* Requesting help, support, or materials from Open Source Community Africa.
+* Tracking and talking about the activities you are organizing.
+* Exploring the design assets, expenses guide, and sponsorship guide.
+* Anything else a Chapter Lead needs to be successful.
+
+Kindly read all the guides (design, sponsorship, expenses, and budget) and other resources, as outlined in the README.
 
 ### Approved Services
 
