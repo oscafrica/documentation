@@ -12,28 +12,28 @@ As an OSCA Chapter Lead, you represent a global network of open-source enthusias
 
 ![](../../.gitbook/assets/52054757972\_a14c3175e6\_o.jpg)
 
-### Code of Conduct
-
-Kindly check out our community code of conduct below 👇🏾.
-
-{% content-ref url="../../about/community-code-of-conduct.md" %}
-[community-code-of-conduct.md](../../about/community-code-of-conduct.md)
-{% endcontent-ref %}
-
 ### Chapter Lead Responsibilities
 
 As an OSCA chapter lead in the program, we expect you to:
 
 * Lead an engaged communication channel for your chapter.
-* Host technical and non-technical events (offline or online) that align with OSCA’s goal.&#x20;
+* Host events (offline or online) that align with OSCA’s goal.&#x20;
 * Teach and support your community members to contribute to and build open-source projects that solve social problems or any problem around them.
-* Measure and report all activities you engage in.
+* Measure and report all activities you organize and engage in.
 * Promote Open Source Community Africa in your chapter.
 * Share updates, feedback, event details, and more as may be requested by the Community Managers to keep them abreast of the amazing work you are doing in your chapter.
 
+### Code of Conduct
+
+Kindly check out our community code of conduct below.
+
+{% content-ref url="../../about/community-code-of-conduct.md" %}
+[community-code-of-conduct.md](../../about/community-code-of-conduct.md)
+{% endcontent-ref %}
+
 ### Chapter Leads Hub
 
-As an OSCA Chapter Lead, you will use the private [Chapter Leads Hub](https://github.com/oscafrica/chapter-leads-hub) for:
+As an OSCA Chapter Lead, you will use the private [Chapter Leads Hub](https://github.com/oscafrica/chapter-leads-hub) GitHub repository for:
 
 * Discussing and planning chapter activities.
 * Requesting help, support, or materials from Open Source Community Africa.
@@ -41,22 +41,7 @@ As an OSCA Chapter Lead, you will use the private [Chapter Leads Hub](https://gi
 * Exploring the design assets, expenses guide, and sponsorship guide.
 * Anything else a Chapter Lead needs to be successful.
 
-Kindly read all the guides (design, sponsorship, expenses, and budget) and other resources as outlined in the README.
-
-### Approved Services
-
-You can create an account for your chapter on the following approved services using your official Gmail address and naming convention as instructed above.
-
-* Gmail
-* X (Twitter)
-* WhatsApp groups
-* Telegram groups
-* GitHub individual account or organization
-* GitLab individual account or organization
-
-{% hint style="info" %}
-Please note that you're not allowed to create an account for your chapter on any platform or service other than the ones mentioned in this guide. If you need anything else and in doubt, kindly reach out to your community managers for help before doing anything.
-{% endhint %}
+Kindly read all the guides (design, sponsorship, expenses, and budget) and other resources, as outlined in the README.
 
 ### Recommended Practices
 
@@ -142,6 +127,21 @@ Successful leads ensure that the local community they lead embodies OSCA’s cor
 
 </details>
 
+### Approved Services
+
+You can create an account for your chapter on the following approved services using your official Gmail address and naming convention as instructed below.
+
+* Gmail
+* X (Twitter)
+* WhatsApp groups
+* Telegram groups
+* GitHub individual account or organization
+* GitLab individual account or organization
+
+{% hint style="info" %}
+Please note that you're not allowed to create an account for your chapter on any platform or service other than the ones mentioned in this guide. If you need anything else or when in doubt, kindly reach out to your community managers for help before doing anything.
+{% endhint %}
+
 ### Social Media
 
 As an OSCA lead, you represent us and our values, and we implore you **not** to use any hate speech on social media. Instead, find below guides to follow while interacting with members of your community:
@@ -150,7 +150,7 @@ As an OSCA lead, you represent us and our values, and we implore you **not** to 
 2. Create an [X (Twitter) account](https://twitter.com/i/flow/signup) for your chapter and customize the account.
 3. Ensure that the account name always starts with OSCA followed by the chapter name (e.g., OSCA Nairobi), and the handle should be OSCA (in lowercase) followed by the chapter name (e.g., @oscanairobi or @osca\_nairobi).
 4. Upon creating a social account for your chapter, kindly copy, edit, and use this for your chapter’s bio: _"A budding @osca\_hq community of open-source advocates and contributors in \[Chapter’s city, State, Country Flag]."_
-5. Always tag @oscafrica when creating awareness about your events or initiatives.
+5. Always tag @osca\_hq when creating awareness about your events or initiatives.
 6. Use the hashtags like **#OSCAUyo**. That is, #OSCA\[City of your chapter].
 7. When giving out information, ensure that it is from a reliable source.
 8. Do not post negative information about OSCA or its affiliates or partners.
