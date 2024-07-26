@@ -2,106 +2,87 @@
 
 ### Samson Goddy
 
-Core contributor  
-Co-founder  
-Port Harcourt, 🇳🇬
+Core Contributor\
+Co-founder\
+Abuja, 🇳🇬.
 
-[Twitter](https://twitter.com/Samson_Goddy), [LinkedIn](https://www.linkedin.com/in/samsongoddy)
+[X (Twitter)](https://twitter.com/Samson\_Goddy), [LinkedIn](https://www.linkedin.com/in/samsongoddy)
 
 ### Ada Nduka Oyom
 
-Core contributor  
-Co-founder  
-Lagos, 🇳🇬
+Core Contributor\
+Co-founder\
+Lagos, 🇳🇬.
 
-[Twitter](https://twitter.com/Kolokodess), [LinkedIn](https://www.linkedin.com/in/ada-nduka-oyom)
+[X (Twitter)](https://twitter.com/Kolokodess), [LinkedIn](https://www.linkedin.com/in/ada-nduka-oyom)
 
 ### Peace Ojemeh
 
-Core contributor  
-Founding Member & Design Lead  
-Port Harcourt, 🇳🇬
+Core Contributor\
+Founding Member & Design Lead\
+Abuja, 🇳🇬.
 
-[Twitter](https://twitter.com/Peace_Ojemeh), [LinkedIn](https://www.linkedin.com/in/peace-ojemeh-0b5bb2151)
+[X (Twitter)](https://twitter.com/Peace\_Ojemeh), [LinkedIn](https://www.linkedin.com/in/peace-ojemeh-0b5bb2151)
 
 ### Ogheneyoma Okobiah
 
-Core contributor  
-Partnerships & Finance Lead  
-Abuja, 🇳🇬
+Core Contributor\
+Partnerships & Finance Lead\
+Abuja, 🇳🇬.
 
-[Twitter](https://twitter.com/yomdroid), [LinkedIn](https://www.linkedin.com/in/ogheneyoma-okobiah)
+[X (Twitter)](https://twitter.com/yomdroid), [LinkedIn](https://www.linkedin.com/in/ogheneyoma-okobiah)
 
 ### Bolaji Ayodeji
 
-Core contributor  
-Community Manager  
-Kogi, 🇳🇬
+Core Contributor\
+Community Manager & Technical Support\
+Abuja, 🇳🇬.
 
-[Twitter](https://twitter.com/iambolajiayo), [LinkedIn](https://www.linkedin.com/in/iambolajiayo)
-
-## 
-
-### Edidiong Asipko
-
-Community & Documentation  
-Lagos, 🇳🇬
-
-[Twitter](https://twitter.com/Didicodes), [LinkedIn](https://www.linkedin.com/in/edidiong-asikpo-2b792a147)
-
-### Jennifer Etegbeke
-
-Documentation  
-Port Harcourt, 🇳🇬
-
-[Twitter](https://twitter.com/jen_duix), [LinkedIn](https://www.linkedin.com/in/jennifer-oro-oghene-etegbeke-9b3a4b188)
-
-### Amarachi Azubuike
-
-Social Media & PR  
-Abia, 🇳🇬
-
-[Twitter](https://twitter.com/MsAmarachukwu), [LinkedIn](https://www.linkedin.com/in/amarachiemmanuelaazubuike/)
+[X (Twitter)](https://twitter.com/iambolajiayo), [LinkedIn](https://www.linkedin.com/in/iambolajiayo)
 
 ### Princess Egbuna
 
-Engineering Lead  
-Lagos, 🇳🇬
+Core Contributor\
+Engineering Lead\
+Lagos, 🇳🇬.
 
-[Twitter](https://twitter.com/PrincesOluebube), [LinkedIn](https://www.linkedin.com/in/egbunaoluebubeprincess)
+[X (Twitter)](https://twitter.com/PrincesOluebube), [LinkedIn](https://www.linkedin.com/in/egbunaoluebubeprincess)
+
+### Ruth Ikegah
+
+Core Contributor\
+Program Manager\
+Lagos, 🇳🇬.
+
+[X (Twitter)](https://twitter.com/IkegahRuth), [LinkedIn](https://www.linkedin.com/in/ruth-ikegah/)
+
+***
+
+### Edidiong Asipko
+
+Community & Documentation\
+Lagos, 🇳🇬.
+
+[X (Twitter)](https://twitter.com/Didicodes), [LinkedIn](https://www.linkedin.com/in/edidiong-asikpo-2b792a147)
 
 ### Josh Ike Chukwuanu
 
-Engineering  
-Port Harcourt, 🇳🇬
+Engineering\
+Abuja, 🇳🇬.
 
-[Twitter](https://twitter.com/IkeChukwuanu), [LinkedIn](https://www.linkedin.com/in/chukwuanu)
+[X (Twitter)](https://twitter.com/IkeChukwuanu), [LinkedIn](https://www.linkedin.com/in/chukwuanu)
 
 ### Alabo Briggs
 
-Engineering  
-Port Harcourt, 🇳🇬
+Engineering\
+Abuja, 🇳🇬.
 
-[Twitter](https://twitter.com/alabobriggs_), [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161)
-
-### Favour Kelvin
-
-Engineering  
-Port Harcourt, 🇳🇬
-
-[Twitter](https://twitter.com/Fakela6), [LinkedIn](https://www.linkedin.com/in/favour-kelvin)
+[X (Twitter)](https://twitter.com/alabobriggs\_), [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161)
 
 ### Steve Anthony
 
-Design  
-Port Harcourt, 🇳🇬
+Design\
+Port Harcourt, 🇳🇬.
 
-[Twitter](https://twitter.com/steveanthny), [LinkedIn](https://www.linkedin.com/in/stephenokonkwo)
-
-### Joshua Ofor
-
-Design  
-Port Harcourt, 🇳🇬
-
-[Twitter](https://twitter.com/theman_ofor), [LinkedIn](https://www.linkedin.com/in/ofor)
+[X (Twitter)](https://twitter.com/steveanthny), [LinkedIn](https://www.linkedin.com/in/stephenokonkwo)
 
